@@ -1,0 +1,59 @@
+{
+  "subject": "English",
+  "subject_code": "english",
+  "topic": "Paragraph Writing (৮টি মাস্টার সেট)",
+  "topic_code": "paragraph",
+  "mark_distribution": "৫ নম্বর",
+  "exam_tips": "লিখিত পরীক্ষায় একটি একক প্যারায় ১৫০–২০০ শব্দের মধ্যে ভূমিকা, বিস্তারিত তথ্য ও ইতিবাচক উপসংহার লিখে শেষ করতে হবে।",
+  "total_items": 8,
+  "items": [
+    {
+      "id": 1,
+      "title": "Social Safety Net in Bangladesh",
+      "key_points": "Poverty alleviation, Department of Social Services, Old Age Allowance, Widow Allowance, Disability benefits, Digital payment (G2P).",
+      "model_paragraph": "The Social Safety Net in Bangladesh represents a cornerstone in the government's commitment to ensuring social justice and poverty alleviation. Managed largely by the Department of Social Services (DSS) under the Ministry of Social Welfare, these targeted programs extend vital financial and social cushions to marginalized populations. Major initiatives include Old Age Allowance, Allowance for Widows, Deserted and Destitute Women, and Allowances for Financially Insolvent Persons with Disabilities. In recent years, the implementation of the Government-to-Person (G2P) direct benefit transfer system has revolutionized disbursement, eliminating middlemen and empowering recipients via mobile financial services. These programs not only mitigate absolute poverty but also restore dignity, enhance healthcare access, and foster social inclusion. Continuous monitoring and increased budgetary allocations ensure the safety net remains robust and adaptive to contemporary challenges."
+    },
+    {
+      "id": 2,
+      "title": "Smart Bangladesh 2041",
+      "key_points": "Successor to Digital Bangladesh, Four pillars (Smart Citizens, Smart Government, Smart Economy, Smart Society), Technological empowerment.",
+      "model_paragraph": "Smart Bangladesh 2041 is a transformative national vision designed to transition Bangladesh from a developing nation into an innovation-driven, knowledge-based developed country. Building upon the robust foundation of Digital Bangladesh, this vision rests on four interconnected pillars: Smart Citizens, Smart Government, Smart Economy, and Smart Society. Smart Citizens will be digitally literate, creative, and capable of leading global industries. Smart Government aims to deliver seamless, paperless, and transparent public services to citizens' doorsteps. The Smart Economy emphasizes a cashless financial ecosystem, AI integration, and high-tech manufacturing, while Smart Society promises an inclusive, tolerant, and humane community. By equipping youth with cutting-edge technological skills and modern infrastructure, Smart Bangladesh aspires to create an equitable and prosperous homeland."
+    },
+    {
+      "id": 3,
+      "title": "The Padma Multipurpose Bridge",
+      "key_points": "Self-financed dream, Connecting 21 southern districts, Economic booster, National pride and engineering feat.",
+      "model_paragraph": "The Padma Multipurpose Bridge stands as an illustrious symbol of Bangladesh's resilience, self-reliance, and engineering prowess. Inaugurated on June 25, 2022, this 6.15-kilometer two-tier rail-road bridge spans the mighty Padma River, connecting 21 southwestern districts directly with Dhaka. Funded entirely by domestic resources after overcoming extensive international hurdles, the bridge has revolutionized national communication and logistics. It slashed travel hours dramatically, boosted regional industrialization, and catalyzed agricultural trade. Economists estimate that the bridge contributes more than 1.2% to the national GDP growth annually. Beyond economic arithmetic, the Padma Bridge embodies our unwavering determination, inspiring future mega infrastructure endeavors across Bangladesh."
+    },
+    {
+      "id": 4,
+      "title": "Female Education in Bangladesh",
+      "key_points": "Women empowerment, Literacy rate rise, Female stipends, Socio-economic development.",
+      "model_paragraph": "Female education is the bedrock of societal progress, and Bangladesh has made remarkable strides in this sphere over the past few decades. Through innovative government policies such as secondary school stipends, free tuition up to degree level, and targeted community awareness, the country has achieved gender parity in primary and secondary education. Educating women yields multi-dimensional benefits: it delays early marriage, lowers fertility rates, improves child healthcare, and accelerates poverty alleviation. Educated women are actively contributing to the civil service, healthcare, entrepreneurship, and the readymade garment sector. Continuing to invest in tertiary female education and vocational training is essential to sustain our economic trajectory and build an egalitarian society."
+    },
+    {
+      "id": 5,
+      "title": "Dhaka Metro Rail (MRT Line-6)",
+      "key_points": "Traffic congestion relief, Eco-friendly mass rapid transit, Elevated rail network, Time saving.",
+      "model_paragraph": "The introduction of the Dhaka Metro Rail, specifically MRT Line-6, marks a historic milestone in the modernization of Bangladesh's urban transport infrastructure. Commencing operations from Uttara to Motijheel, this state-of-the-art elevated rapid transit system has drastically reduced the commuting time from over two hours to mere minutes. Operating purely on electric power with advanced noise-reduction technologies, the metro is highly eco-friendly and relieves the capital of tons of carbon emissions. Tens of thousands of office-goers, students, and professionals now enjoy safe, air-conditioned, and dignified transit every day. The Metro Rail has not only unburdened traffic congestion but also added immense momentum to economic productivity in the capital city."
+    },
+    {
+      "id": 6,
+      "title": "Importance of Technical and Vocational Education",
+      "key_points": "Skill development, Demographic dividend, Reducing youth unemployment, Remittance enhancement.",
+      "model_paragraph": "In an era of rapid technological advancement and competitive global markets, technical and vocational education and training (TVET) has emerged as an imperative for national economic survival. Traditional academic degrees often leave graduates under-skilled for market demands, leading to widespread educated unemployment. In contrast, technical education equips youths with hands-on, practical expertise in disciplines such as electrical engineering, computer programming, refrigeration, nursing, and automotive mechanics. With Bangladesh enjoying a unique demographic dividend, equipping our vast youth population with marketable vocational skills is vital. Skilled human resources not only earn higher domestic salaries but also substantially increase overseas remittance earnings, driving sustainable national prosperity."
+    },
+    {
+      "id": 7,
+      "title": "Climate Change and Bangladesh",
+      "key_points": "Vulnerability to sea-level rise, Cyclones and salinity, Delta Plan 2100, Global climate advocacy.",
+      "model_paragraph": "Bangladesh is globally recognized as one of the most climate-vulnerable countries despite contributing insignificantly to global carbon emissions. Located in a low-lying river delta, the nation confronts severe existential challenges, including rising sea levels, increased cyclone frequency, erratic monsoon patterns, and soil salinity intrusion into coastal agricultural lands. Millions of coastal inhabitants face the risk of displacement as climate refugees. In response, Bangladesh has championed resilience through disaster risk reduction, cyclone shelters, salinity-tolerant crop varieties, and the visionary Delta Plan 2100. Globally, Bangladesh vocalizes the rights of climate-affected nations, urging major carbon emitters to uphold loss-and-damage funding commitments under international climate treaties."
+    },
+    {
+      "id": 8,
+      "title": "Good Health and Physical Exercise",
+      "key_points": "Sound mind in sound body, Modern sedentary lifestyle, Daily exercise benefits, Productivity booster.",
+      "model_paragraph": "Good health is the supreme blessing of human life, aptly described as the root of all happiness. Physical exercise plays an indispensable role in maintaining both bodily vigor and mental alertness. In contemporary society, sedentary desk jobs and excessive screen time have led to unprecedented spikes in lifestyle diseases such as obesity, hypertension, diabetes, and cardiovascular disorders. Regular physical exertion—whether jogging, walking, swimming, or gym workouts—stimulates blood circulation, strengthens the immune system, and elevates mood by releasing endorphins. A healthy individual is vibrant, disciplined, and productive, contributing optimally to family and society. Regular exercise is therefore not a luxury, but an essential daily habit for holistic well-being."
+    }
+  ]
+}

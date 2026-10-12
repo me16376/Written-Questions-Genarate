@@ -1,0 +1,713 @@
+{
+  "subject": "English",
+  "subject_code": "english",
+  "topic": "Idioms & Phrases (৬০টি মাস্টার সেট)",
+  "topic_code": "idioms_phrases",
+  "mark_distribution": "৩ – ৫ নম্বর",
+  "exam_tips": "লিখিত পরীক্ষায় Idiom দিয়ে অর্থপূর্ণ বাক্য রচনা করতে হয়। বাক্যের ব্যাকরণ ও বানানের ভুল যেন না হয় সেদিকে বিশেষ সতর্ক থাকুন।",
+  "total_items": 117,
+  "items": [
+    {
+      "id": 1,
+      "idiom": "A red-letter day",
+      "meaning": "A memorable / joyful day (স্মরণীয় দিন)",
+      "sentence": "The 26th March is a red-letter day in our national history."
+    },
+    {
+      "id": 2,
+      "idiom": "Apple of discord",
+      "meaning": "Cause of quarrel (বিবাদের বিষয়)",
+      "sentence": "The ancestral property became an apple of discord between the two brothers."
+    },
+    {
+      "id": 3,
+      "idiom": "At a loss",
+      "meaning": "Puzzled / bewildered (হতবুদ্ধি)",
+      "sentence": "He was at a loss and did not know what to do next."
+    },
+    {
+      "id": 4,
+      "idiom": "At sixes and sevens",
+      "meaning": "In disorder (বিশৃঙ্খলা অবস্থায়)",
+      "sentence": "All the files in the office were at sixes and sevens."
+    },
+    {
+      "id": 5,
+      "idiom": "Black sheep",
+      "meaning": "A disreputable person (কুলাঙ্গার)",
+      "sentence": "He is the black sheep of a highly respectable family."
+    },
+    {
+      "id": 6,
+      "idiom": "Bolt from the blue",
+      "meaning": "An unexpected shock (বিনা মেঘে বজ্রপাত)",
+      "sentence": "The news of his sudden demise was a bolt from the blue to his family."
+    },
+    {
+      "id": 7,
+      "idiom": "By leaps and bounds",
+      "meaning": "Very rapidly (দ্রুত গতিতে)",
+      "sentence": "The economy of our country is progressing by leaps and bounds."
+    },
+    {
+      "id": 8,
+      "idiom": "Cock and bull story",
+      "meaning": "An absurd tale (গাঁজাখোরি গল্প)",
+      "sentence": "Nobody believed his cock and bull story about missing the train."
+    },
+    {
+      "id": 9,
+      "idiom": "Crocodile tears",
+      "meaning": "False display of grief (মায়াকান্না)",
+      "sentence": "Do not be deceived by his crocodile tears; he is not sincere."
+    },
+    {
+      "id": 10,
+      "idiom": "Dark horse",
+      "meaning": "An unexpected winner (অপ্রত্যাশিত প্রতিযোগী)",
+      "sentence": "In the final examination, he proved to be a dark horse by securing the first position."
+    },
+    {
+      "id": 11,
+      "idiom": "Hard and fast",
+      "meaning": "Rigid / fixed (বাঁধাধরা)",
+      "sentence": "There are no hard and fast rules in creative writing."
+    },
+    {
+      "id": 12,
+      "idiom": "In a nutshell",
+      "meaning": "Very briefly (সংক্ষেপে)",
+      "sentence": "Can you explain the main idea of the passage in a nutshell?"
+    },
+    {
+      "id": 13,
+      "idiom": "In full swing",
+      "meaning": "In full activity (পুরোদমে)",
+      "sentence": "The construction work of the bridge is going on in full swing."
+    },
+    {
+      "id": 14,
+      "idiom": "In lieu of",
+      "meaning": "In place of / instead of (পরিবর্তে)",
+      "sentence": "He gave me cash in lieu of a bank cheque."
+    },
+    {
+      "id": 15,
+      "idiom": "Ins and outs",
+      "meaning": "Full details (খুঁটিনাটি সব)",
+      "sentence": "The experienced officer knows the ins and outs of this project."
+    },
+    {
+      "id": 16,
+      "idiom": "Kith and kin",
+      "meaning": "Relatives (আত্মীয়স্বজন)",
+      "sentence": "He invited all his kith and kin on the eve of his marriage."
+    },
+    {
+      "id": 17,
+      "idiom": "Null and void",
+      "meaning": "Invalid / cancelled (বাতিল)",
+      "sentence": "The high court declared the disputed agreement null and void."
+    },
+    {
+      "id": 18,
+      "idiom": "Pros and cons",
+      "meaning": "Advantages and disadvantages (খুঁটিনাটি ভালো-মন্দ)",
+      "sentence": "You should consider the pros and cons before taking any major decision."
+    },
+    {
+      "id": 19,
+      "idiom": "Round the clock",
+      "meaning": "Day and night continuously (দিন-রাত চব্বিশ ঘণ্টা)",
+      "sentence": "The medical team worked round the clock to save the patients."
+    },
+    {
+      "id": 20,
+      "idiom": "Silver spoon",
+      "meaning": "Born into wealthy family (ধনী পরিবারে জন্ম)",
+      "sentence": "He was born with a silver spoon in his mouth and never knew hardship."
+    },
+    {
+      "id": 21,
+      "idiom": "Stone's throw",
+      "meaning": "Very near (খুব কাছে)",
+      "sentence": "The railway station is only a stone's throw from our house."
+    },
+    {
+      "id": 22,
+      "idiom": "Through thick and thin",
+      "meaning": "Under all conditions (সুখে-দুঃখে সবসময়)",
+      "sentence": "A true friend supports you through thick and thin."
+    },
+    {
+      "id": 23,
+      "idiom": "To and fro",
+      "meaning": "Backwards and forwards (এদিক-ওদিক)",
+      "sentence": "The pendulum swings to and fro continuously."
+    },
+    {
+      "id": 24,
+      "idiom": "Tooth and nail",
+      "meaning": "With all power / fiercely (আপ্রাণ শক্তিতে)",
+      "sentence": "Our brave freedom fighters fought tooth and nail to liberate the country."
+    },
+    {
+      "id": 25,
+      "idiom": "White elephant",
+      "meaning": "Costly but useless possession (দামি অথচ অকেজো)",
+      "sentence": "The old factory building became a white elephant for the company."
+    },
+    {
+      "id": 26,
+      "idiom": "Bags and baggage",
+      "meaning": "With all belongings (তল্পিতল্পাসহ)",
+      "sentence": "The tenant left the house bag and baggage without paying rent."
+    },
+    {
+      "id": 27,
+      "idiom": "Break the ice",
+      "meaning": "Overcome awkward silence (জড়তা ভাঙা)",
+      "sentence": "His funny joke helped to break the ice among the new colleagues."
+    },
+    {
+      "id": 28,
+      "idiom": "By hook or by crook",
+      "meaning": "By any means (যেকোনো উপায়ে)",
+      "sentence": "He is determined to secure the job by hook or by crook."
+    },
+    {
+      "id": 29,
+      "idiom": "Cry in the wilderness",
+      "meaning": "A futile appeal (অরণ্যে রোদন)",
+      "sentence": "His honest plea for reform was just a cry in the wilderness."
+    },
+    {
+      "id": 30,
+      "idiom": "Far and wide",
+      "meaning": "Everywhere (সর্বত্র)",
+      "sentence": "The fame of the Nobel laureate spread far and wide."
+    },
+    {
+      "id": 31,
+      "idiom": "Flesh and blood",
+      "meaning": "Human nature / body (রক্তমাংসের শরীর)",
+      "sentence": "Human flesh and blood cannot endure such immense torture."
+    },
+    {
+      "id": 32,
+      "idiom": "Lame excuse",
+      "meaning": "Unconvincing explanation (বাজে অজুহাত)",
+      "sentence": "The teacher did not accept his lame excuse for being late."
+    },
+    {
+      "id": 33,
+      "idiom": "Out of the blue",
+      "meaning": "Completely unexpected (সম্পূর্ণ অপ্রত্যাশিতভাবে)",
+      "sentence": "An old school friend called me out of the blue after ten years."
+    },
+    {
+      "id": 34,
+      "idiom": "Slip of the tongue",
+      "meaning": "An unintentional spoken mistake (মুখের অসতর্ক ভুল)",
+      "sentence": "It was just a slip of the tongue; he didn't mean to hurt you."
+    },
+    {
+      "id": 35,
+      "idiom": "Nip in the bud",
+      "meaning": "Destroy at an early stage (অঙ্কুরেই বিনষ্ট করা)",
+      "sentence": "Bad habits must be nipped in the bud before they become addictive."
+    },
+    {
+      "id": 36,
+      "idiom": "Burn the candle at both ends",
+      "meaning": "Overwork exhaustingly (অতিরিক্ত পরিশ্রম করে শক্তি ক্ষয় করা)",
+      "sentence": "By studying day and night, he is burning the candle at both ends."
+    },
+    {
+      "id": 37,
+      "idiom": "Bury the hatchet",
+      "meaning": "Make peace / forget enmity (বিবাদ মিটিয়ে ফেলা)",
+      "sentence": "The two rival groups decided to bury the hatchet and cooperate."
+    },
+    {
+      "id": 38,
+      "idiom": "Fair-weather friend",
+      "meaning": "Friend in prosperity only (সুসময়ের বন্ধু)",
+      "sentence": "Beware of fair-weather friends who abandon you in adversity."
+    },
+    {
+      "id": 39,
+      "idiom": "Gala day",
+      "meaning": "A day of celebration (উৎসবের দিন)",
+      "sentence": "Victory Day is a gala day for all citizens of Bangladesh."
+    },
+    {
+      "id": 40,
+      "idiom": "Halcyon days",
+      "meaning": "Peaceful and happy days (শান্তিময় সোনালী দিন)",
+      "sentence": "He fondly recalled the halcyon days of his early childhood."
+    },
+    {
+      "id": 41,
+      "idiom": "Iron will",
+      "meaning": "Strong determination (দৃঢ় সংকল্প)",
+      "sentence": "A leader with an iron will can overcome any crisis."
+    },
+    {
+      "id": 42,
+      "idiom": "Jack of all trades",
+      "meaning": "Master of none (সব কাজের কাজি কিন্তু কোনোটায় দক্ষ নয়)",
+      "sentence": "He is a jack of all trades, but master of none."
+    },
+    {
+      "id": 43,
+      "idiom": "Lion's share",
+      "meaning": "The largest portion (সিংহভাগ)",
+      "sentence": "Education received the lion's share of the national budget."
+    },
+    {
+      "id": 44,
+      "idiom": "Make both ends meet",
+      "meaning": "Live within one's income (আয়-ব্যয়ের সামঞ্জস্য রাখা)",
+      "sentence": "With high inflation, it is difficult for the poor to make both ends meet."
+    },
+    {
+      "id": 45,
+      "idiom": "Once in a blue moon",
+      "meaning": "Very rarely (কদাচিৎ)",
+      "sentence": "He visits his ancestral village once in a blue moon."
+    },
+    {
+      "id": 46,
+      "idiom": "Read between the lines",
+      "meaning": "Understand hidden meaning (অন্তর্নিহিত অর্থ বোঝা)",
+      "sentence": "To grasp poetry, you must learn to read between the lines."
+    },
+    {
+      "id": 47,
+      "idiom": "See eye to eye",
+      "meaning": "Agree fully (একমত হওয়া)",
+      "sentence": "The two ministers do not see eye to eye on this policy issue."
+    },
+    {
+      "id": 48,
+      "idiom": "Spill the beans",
+      "meaning": "Reveal a secret prematurely (গোপন কথা ফাঁস করা)",
+      "sentence": "Please do not spill the beans about our surprise party."
+    },
+    {
+      "id": 49,
+      "idiom": "Take to task",
+      "meaning": "Rebuke / scold (তিরস্কার করা)",
+      "sentence": "The officer was taken to task for his negligence of duty."
+    },
+    {
+      "id": 50,
+      "idiom": "Up to date",
+      "meaning": "Modern / current (হালনাগাদ)",
+      "sentence": "Keep your general knowledge up to date for the exam."
+    },
+    {
+      "id": 51,
+      "idiom": "Wild goose chase",
+      "meaning": "A useless search (পণ্ডশ্রম)",
+      "sentence": "Searching for that lost file without proper cataloguing was a wild goose chase."
+    },
+    {
+      "id": 52,
+      "idiom": "Achilles' heel",
+      "meaning": "A vulnerable spot (দুর্বল দিক)",
+      "sentence": "Mathematics proved to be his Achilles' heel in the competitive exam."
+    },
+    {
+      "id": 53,
+      "idiom": "At the eleventh hour",
+      "meaning": "At the last moment (শেষ মুহূর্তে)",
+      "sentence": "He submitted his application at the eleventh hour."
+    },
+    {
+      "id": 54,
+      "idiom": "Bone of contention",
+      "meaning": "Subject of dispute (বিবাদের কারণ)",
+      "sentence": "Border dispute is the main bone of contention between the two nations."
+    },
+    {
+      "id": 55,
+      "idiom": "By and large",
+      "meaning": "On the whole (মোটের ওপর)",
+      "sentence": "By and large, the project has been a great success."
+    },
+    {
+      "id": 56,
+      "idiom": "Face to face",
+      "meaning": "In direct confrontation (মুখোমুখি)",
+      "sentence": "They finally met face to face to resolve the long-standing crisis."
+    },
+    {
+      "id": 57,
+      "idiom": "Heart and soul",
+      "meaning": "With complete dedication (প্রাণপণে)",
+      "sentence": "He tried heart and soul to secure a decent government job."
+    },
+    {
+      "id": 58,
+      "idiom": "In cold blood",
+      "meaning": "Deliberately and mercilessly (ঠাণ্ডা মাথায় নির্দয়ভাবে)",
+      "sentence": "The innocent victim was murdered in cold blood."
+    },
+    {
+      "id": 60,
+      "idiom": "Without issue",
+      "meaning": "Childless (নিঃসন্তান)",
+      "sentence": "The rich gentleman died without issue and donated his wealth to charity."
+    },
+    {
+      "id": 60,
+      "idiom": "Above board",
+      "meaning": "Beyond suspicion / honest (সন্দেহাতীত ও প্রকাশ্য)",
+      "sentence": "His financial dealings are always open and above board."
+    },
+    {
+      "id": 61,
+      "idiom": "At daggers drawn",
+      "meaning": "In bitter hostility (ঘোর শত্রুতা)",
+      "sentence": "The two rival politicians are at daggers drawn with each other."
+    },
+    {
+      "id": 62,
+      "idiom": "At home",
+      "meaning": "Comfortable / skilled (দক্ষ / স্বাচ্ছন্দ্য বোধ করা)",
+      "sentence": "He is quite at home in English grammar."
+    },
+    {
+      "id": 63,
+      "idiom": "At random",
+      "meaning": "Without aim or purpose (এলোমেলোভাবে)",
+      "sentence": "The police fired at random to disperse the violent mob."
+    },
+    {
+      "id": 64,
+      "idiom": "Bad blood",
+      "meaning": "Ill feeling / mutual hatred (শত্রুতা / মনোমালিন্য)",
+      "sentence": "The land dispute created bad blood between the two neighbors."
+    },
+    {
+      "id": 65,
+      "idiom": "Bear fruit",
+      "meaning": "Produce successful results (সফল হওয়া)",
+      "sentence": "His years of tireless labor finally bore fruit."
+    },
+    {
+      "id": 66,
+      "idiom": "Bite the dust",
+      "meaning": "Be defeated or killed (পরাজিত হওয়া বা মারা যাওয়া)",
+      "sentence": "The corrupt empire finally bit the dust."
+    },
+    {
+      "id": 67,
+      "idiom": "Blue blood",
+      "meaning": "Aristocratic lineage (উচ্চ বংশজাত / অভিজাত রক্ত)",
+      "sentence": "She takes unnecessary pride in her blue blood."
+    },
+    {
+      "id": 68,
+      "idiom": "Bosom friend",
+      "meaning": "Intimate friend (ঘনিষ্ঠ বন্ধু)",
+      "sentence": "Rahim has been my bosom friend since primary school."
+    },
+    {
+      "id": 69,
+      "idiom": "By dint of",
+      "meaning": "By means of (বলে / মাধ্যমে)",
+      "sentence": "He secured first class by dint of hard study."
+    },
+    {
+      "id": 70,
+      "idiom": "By virtue of",
+      "meaning": "By reason of / through (গুণে বা বলে)",
+      "sentence": "He achieved promotion by virtue of his exemplary dedication."
+    },
+    {
+      "id": 71,
+      "idiom": "Call a spade a spade",
+      "meaning": "Speak plainly without fear (স্পষ্ট সত্য কথা বলা)",
+      "sentence": "An honest journalist must call a spade a spade."
+    },
+    {
+      "id": 72,
+      "idiom": "Capital punishment",
+      "meaning": "Death penalty (মৃত্যুদণ্ড)",
+      "sentence": "The terrorist was awarded capital punishment by the court."
+    },
+    {
+      "id": 73,
+      "idiom": "Carry the day",
+      "meaning": "Win victory (জয়লাভ করা)",
+      "sentence": "Our cricket team fought gallantly and carried the day."
+    },
+    {
+      "id": 74,
+      "idiom": "Cast pearls before swine",
+      "meaning": "Waste good things on unappreciative people (উলুবনে মুক্তা ছড়ানো)",
+      "sentence": "Explaining philosophy to that ignorant fool is like casting pearls before swine."
+    },
+    {
+      "id": 75,
+      "idiom": "Catch red-handed",
+      "meaning": "Caught in the act of committing crime (হাতেনাতে ধরা)",
+      "sentence": "The burglar was caught red-handed with the stolen jewelry."
+    },
+    {
+      "id": 76,
+      "idiom": "Close-fisted man",
+      "meaning": "Miserly person (কৃপণ লোক)",
+      "sentence": "The close-fisted landlord never spent a single penny on charity."
+    },
+    {
+      "id": 77,
+      "idiom": "Cut a sorry figure",
+      "meaning": "Make a poor impression (খারাপ ফল করা / অপদস্থ হওয়া)",
+      "sentence": "He cut a sorry figure in his first public interview due to nervousness."
+    },
+    {
+      "id": 78,
+      "idiom": "Die in harness",
+      "meaning": "Die while still on active duty (কর্মরত অবস্থায় মৃত্যুবরণ করা)",
+      "sentence": "The dedicated judge worked till his final days and died in harness."
+    },
+    {
+      "id": 79,
+      "idiom": "Dutch courage",
+      "meaning": "Courage induced by alcohol (মদ্যপানের বীরত্ব)",
+      "sentence": "His boastful challenge was nothing but Dutch courage."
+    },
+    {
+      "id": 80,
+      "idiom": "Eat humble pie",
+      "meaning": "Apologize submissively (নম্রভাবে ক্ষমা চাওয়া বা অপমান সহ্য করা)",
+      "sentence": "After the evidence came out, the liar had to eat humble pie."
+    },
+    {
+      "id": 81,
+      "idiom": "Every now and then",
+      "meaning": "Occasionally (মাঝে মাঝে)",
+      "sentence": "He visits his old hometown every now and then."
+    },
+    {
+      "id": 82,
+      "idiom": "Fair and square",
+      "meaning": "Honest and straightforward (ন্যায্য ও সৎ)",
+      "sentence": "He won the competition fair and square without any cheating."
+    },
+    {
+      "id": 83,
+      "idiom": "Feather in one's cap",
+      "meaning": "An achievement to be proud of (গৌরবের বিষয়)",
+      "sentence": "Securing first place in the national civil service exam was a feather in his cap."
+    },
+    {
+      "id": 84,
+      "idiom": "Fight shy of",
+      "meaning": "Avoid / keep away from (এড়িয়ে চলা)",
+      "sentence": "You should not fight shy of your civic responsibilities."
+    },
+    {
+      "id": 85,
+      "idiom": "Fish out of water",
+      "meaning": "In an uncomfortable unfamiliar position (অস্বস্তিকর অবস্থা)",
+      "sentence": "A village boy in a lavish modern party felt like a fish out of water."
+    },
+    {
+      "id": 86,
+      "idiom": "Fool's paradise",
+      "meaning": "State of false happiness (বোকার স্বর্গ)",
+      "sentence": "Living in a fool's paradise will not solve real economic problems."
+    },
+    {
+      "id": 87,
+      "idiom": "For good",
+      "meaning": "Permanently (চিরতরে)",
+      "sentence": "He left his homeland for good and settled in Canada."
+    },
+    {
+      "id": 88,
+      "idiom": "From hand to mouth",
+      "meaning": "With bare subsistence (দিন এনে দিন খাওয়া)",
+      "sentence": "The daily-wage worker lives from hand to mouth with great difficulty."
+    },
+    {
+      "id": 89,
+      "idiom": "Gift of the gab",
+      "meaning": "Talent for fluent speaking (বাগ্মীতা / সুন্দর কথা বলার ক্ষমতা)",
+      "sentence": "With his gift of the gab, the young lawyer impressed the entire jury."
+    },
+    {
+      "id": 90,
+      "idiom": "Go to the dogs",
+      "meaning": "Be ruined / deteriorate completely (রসাতলে যাওয়া)",
+      "sentence": "Without parental supervision, the reckless boy went to the dogs."
+    },
+    {
+      "id": 91,
+      "idiom": "Greek to someone",
+      "meaning": "Incomprehensible (সম্পূর্ণ অবোধ্য)",
+      "sentence": "Advanced quantum physics is all Greek to me."
+    },
+    {
+      "id": 92,
+      "idiom": "Hit the nail on the head",
+      "meaning": "State the exact truth (ঠিক পয়েন্টে আঘাত করা / আসল কথা বলা)",
+      "sentence": "With her insightful remark, the editor hit the nail on the head."
+    },
+    {
+      "id": 93,
+      "idiom": "Hole and corner",
+      "meaning": "Secret / clandestine (গোপন বা অসদুপায়)",
+      "sentence": "The government disapproved of all hole and corner political negotiations."
+    },
+    {
+      "id": 94,
+      "idiom": "Hue and cry",
+      "meaning": "Loud clamor or alarm (শোরগোল / রব)",
+      "sentence": "The villagers raised a hue and cry when the cattle lifters entered."
+    },
+    {
+      "id": 95,
+      "idiom": "In a fix",
+      "meaning": "In an awkward predicament (কঠিন সংকটে)",
+      "sentence": "Having lost his passport abroad, he was in a terrible fix."
+    },
+    {
+      "id": 96,
+      "idiom": "In terms of",
+      "meaning": "Regarding / from standpoint of (দৃষ্টিভঙ্গি থেকে)",
+      "sentence": "In terms of GDP growth, the developing nation is advancing swiftly."
+    },
+    {
+      "id": 97,
+      "idiom": "In the bad books of",
+      "meaning": "In disfavour with someone (কারও অপ্রিয় হওয়া)",
+      "sentence": "He fell into the bad books of his superior after failing the inspection."
+    },
+    {
+      "id": 98,
+      "idiom": "In the good books of",
+      "meaning": "In favour with someone (কারও সুনজরে থাকা)",
+      "sentence": "Through punctual devotion, she remains in the good books of the director."
+    },
+    {
+      "id": 99,
+      "idiom": "In the long run",
+      "meaning": "Ultimately (পরিশেষে / দীর্ঘমেয়াদে)",
+      "sentence": "Honesty and perseverance always pay off in the long run."
+    },
+    {
+      "id": 100,
+      "idiom": "Irony of fate",
+      "meaning": "Cruel twist of destiny (ভাগ্যের নির্মম পরিহাস)",
+      "sentence": "It was an irony of fate that the doctor died of the very disease he researched."
+    },
+    {
+      "id": 101,
+      "idiom": "Keep an eye on",
+      "meaning": "Watch vigilantly (নজর রাখা)",
+      "sentence": "Please keep an eye on my luggage while I fetch the tickets."
+    },
+    {
+      "id": 102,
+      "idiom": "Live up to",
+      "meaning": "Fulfill expectations (মর্যাদা রক্ষা করা)",
+      "sentence": "The newly appointed CEO lived up to the board's high expectations."
+    },
+    {
+      "id": 103,
+      "idiom": "Man of letters",
+      "meaning": "A literary scholar (পণ্ডিত বা সাহিত্যিক ব্যক্তি)",
+      "sentence": "Professor Abdur Razzaq was a revered man of letters."
+    },
+    {
+      "id": 104,
+      "idiom": "Man of straw",
+      "meaning": "A person of no substance (মূল্যহীন অপদার্থ লোক)",
+      "sentence": "Do not fear his hollow threats; he is merely a man of straw."
+    },
+    {
+      "id": 105,
+      "idiom": "Now and then",
+      "meaning": "Occasionally (মাঝে মাঝে)",
+      "sentence": "She writes letters to her old teacher now and then."
+    },
+    {
+      "id": 106,
+      "idiom": "A bolt from the blue",
+      "meaning": "An unexpected disaster (আকস্মিক বিপদ)",
+      "sentence": "The news of his death was a bolt from the blue."
+    },
+    {
+      "id": 107,
+      "idiom": "At home in",
+      "meaning": "Well versed in (দক্ষ)",
+      "sentence": "He is quite at home in English grammar."
+    },
+    {
+      "id": 108,
+      "idiom": "Bark up the wrong tree",
+      "meaning": "Accuse the wrong person (ভুল জায়গায় চেষ্টা করা)",
+      "sentence": "If you think I took your pen, you are barking up the wrong tree."
+    },
+    {
+      "id": 109,
+      "idiom": "Beat about the bush",
+      "meaning": "Approach a topic indirectly (ঘুরিয়ে ফিরিয়ে কথা বলা)",
+      "sentence": "Stop beating about the bush and come to the main point."
+    },
+    {
+      "id": 110,
+      "idiom": "Beside the point",
+      "meaning": "Irrelevant (অপ্রাসঙ্গিক)",
+      "sentence": "Your personal complaint is completely beside the point."
+    },
+    {
+      "id": 111,
+      "idiom": "Burn the midnight oil",
+      "meaning": "Study or work late into night (রাত জেগে পড়াশোনা করা)",
+      "sentence": "Candidates must burn the midnight oil to excel in the written exam."
+    },
+    {
+      "id": 112,
+      "idiom": "Call it a day",
+      "meaning": "Decide to stop working (দিনের মতো কাজ সমাপ্ত করা)",
+      "sentence": "We have completed our target; let us call it a day."
+    },
+    {
+      "id": 113,
+      "idiom": "Crying need",
+      "meaning": "Urgent necessity (জরুরি প্রয়োজন)",
+      "sentence": "Quality education is the crying need of the hour."
+    },
+    {
+      "id": 114,
+      "idiom": "Cut to the quick",
+      "meaning": "Hurt deeply in feelings (মর্মাহত করা)",
+      "sentence": "Her sarcastic remark cut him to the quick."
+    },
+    {
+      "id": 115,
+      "idiom": "Face the music",
+      "meaning": "Accept unpleasant consequences (শাস্তি বা ফল মেনে নেওয়া)",
+      "sentence": "If you commit financial fraud, you must face the music."
+    },
+    {
+      "id": 116,
+      "idiom": "In the nick of time",
+      "meaning": "Just at the last critical moment (ঠিক মোক্ষম সময়ে)",
+      "sentence": "The fire brigade arrived in the nick of time to douse the blaze."
+    },
+    {
+      "id": 117,
+      "idiom": "Leave no stone unturned",
+      "meaning": "Try every possible effort (কোনো চেষ্টার ত্রুটি না করা)",
+      "sentence": "The police will leave no stone unturned to apprehend the criminal."
+    }
+  ]
+}

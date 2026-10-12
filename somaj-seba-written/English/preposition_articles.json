@@ -1,0 +1,1271 @@
+{
+  "subject": "English",
+  "subject_code": "english",
+  "topic": "Preposition & Articles (৮০টি মাস্টার সেট)",
+  "topic_code": "preposition_articles",
+  "mark_distribution": "৩ – ৫ নম্বর",
+  "exam_tips": "Appropriate Preposition ও Articles এর নিয়মগুলো নিয়মিত রিভিশন দিন। পরীক্ষার শূন্যস্থান পূরণে এ ৮০টি থেকেই বারবার ঘুরিয়ে ফিরিয়ে প্রশ্ন থাকে।",
+  "total_items": 180,
+  "items": [
+    {
+      "id": 1,
+      "type": "Preposition",
+      "question": "He is senior ___ me by two years.",
+      "answer": "to",
+      "explanation": "Latin comparatives (senior, junior, superior, inferior) take 'to'."
+    },
+    {
+      "id": 2,
+      "type": "Preposition",
+      "question": "I prefer tea ___ coffee.",
+      "answer": "to",
+      "explanation": "Prefer takes 'to'."
+    },
+    {
+      "id": 3,
+      "type": "Preposition",
+      "question": "He died ___ cancer.",
+      "answer": "of",
+      "explanation": "Die of a disease."
+    },
+    {
+      "id": 4,
+      "type": "Preposition",
+      "question": "The soldiers died ___ their country.",
+      "answer": "for",
+      "explanation": "Die for a noble cause."
+    },
+    {
+      "id": 5,
+      "type": "Preposition",
+      "question": "He died ___ overeating.",
+      "answer": "from",
+      "explanation": "Die from an external effect or habit."
+    },
+    {
+      "id": 6,
+      "type": "Preposition",
+      "question": "He refrained ___ smoking.",
+      "answer": "from",
+      "explanation": "Refrain, abstain, prevent take 'from'."
+    },
+    {
+      "id": 7,
+      "type": "Preposition",
+      "question": "The police are looking ___ the case.",
+      "answer": "into",
+      "explanation": "Look into = investigate."
+    },
+    {
+      "id": 8,
+      "type": "Preposition",
+      "question": "He is good ___ English.",
+      "answer": "at",
+      "explanation": "Good at = skilled in a subject."
+    },
+    {
+      "id": 9,
+      "type": "Preposition",
+      "question": "He is blind ___ his son's faults.",
+      "answer": "to",
+      "explanation": "Blind to = ignoring faults."
+    },
+    {
+      "id": 10,
+      "type": "Preposition",
+      "question": "The old man is blind ___ one eye.",
+      "answer": "of",
+      "explanation": "Blind of an eye = physically blind."
+    },
+    {
+      "id": 11,
+      "type": "Preposition",
+      "question": "He is addicted ___ gambling.",
+      "answer": "to",
+      "explanation": "Addicted to bad habits."
+    },
+    {
+      "id": 12,
+      "type": "Preposition",
+      "question": "We should abide ___ the law.",
+      "answer": "by",
+      "explanation": "Abide by = obey."
+    },
+    {
+      "id": 13,
+      "type": "Preposition",
+      "question": "He is devoid ___ common sense.",
+      "answer": "of",
+      "explanation": "Devoid of = lacking."
+    },
+    {
+      "id": 14,
+      "type": "Preposition",
+      "question": "She congratulated me ___ my success.",
+      "answer": "on",
+      "explanation": "Congratulate on."
+    },
+    {
+      "id": 15,
+      "type": "Preposition",
+      "question": "He was accused ___ theft.",
+      "answer": "of",
+      "explanation": "Accused of a crime."
+    },
+    {
+      "id": 16,
+      "type": "Preposition",
+      "question": "He was charged ___ murder.",
+      "answer": "with",
+      "explanation": "Charged with."
+    },
+    {
+      "id": 17,
+      "type": "Preposition",
+      "question": "Smoking is injurious ___ health.",
+      "answer": "to",
+      "explanation": "Injurious to."
+    },
+    {
+      "id": 18,
+      "type": "Preposition",
+      "question": "He deals ___ rice.",
+      "answer": "in",
+      "explanation": "Deal in = do business."
+    },
+    {
+      "id": 19,
+      "type": "Preposition",
+      "question": "How do you deal ___ such rude people?",
+      "answer": "with",
+      "explanation": "Deal with = behave/handle."
+    },
+    {
+      "id": 20,
+      "type": "Preposition",
+      "question": "The committee consists ___ five members.",
+      "answer": "of",
+      "explanation": "Consist of = composed of."
+    },
+    {
+      "id": 21,
+      "type": "Preposition",
+      "question": "Happiness consists ___ contentment.",
+      "answer": "in",
+      "explanation": "Consist in = lies in."
+    },
+    {
+      "id": 22,
+      "type": "Preposition",
+      "question": "He is absorbed ___ deep thoughts.",
+      "answer": "in",
+      "explanation": "Absorbed in."
+    },
+    {
+      "id": 23,
+      "type": "Preposition",
+      "question": "I am fond ___ classical music.",
+      "answer": "of",
+      "explanation": "Fond of = liking."
+    },
+    {
+      "id": 24,
+      "type": "Preposition",
+      "question": "He aimed the gun ___ the bird.",
+      "answer": "at",
+      "explanation": "Aim at."
+    },
+    {
+      "id": 25,
+      "type": "Preposition",
+      "question": "What is the time ___ your watch?",
+      "answer": "by",
+      "explanation": "By my watch."
+    },
+    {
+      "id": 26,
+      "type": "Preposition",
+      "question": "He jumped ___ the river.",
+      "answer": "into",
+      "explanation": "Into shows motion inside."
+    },
+    {
+      "id": 27,
+      "type": "Preposition",
+      "question": "Divide the mangoes ___ the two brothers.",
+      "answer": "between",
+      "explanation": "Between two persons."
+    },
+    {
+      "id": 28,
+      "type": "Preposition",
+      "question": "Distribute the relief materials ___ the flood victims.",
+      "answer": "among",
+      "explanation": "Among more than two."
+    },
+    {
+      "id": 29,
+      "type": "Preposition",
+      "question": "He was deprived ___ his property.",
+      "answer": "of",
+      "explanation": "Deprived of."
+    },
+    {
+      "id": 30,
+      "type": "Preposition",
+      "question": "She burst ___ tears at the sad news.",
+      "answer": "into",
+      "explanation": "Burst into tears; burst out laughing."
+    },
+    {
+      "id": 31,
+      "type": "Preposition",
+      "question": "He insisted ___ my going there.",
+      "answer": "on",
+      "explanation": "Insist on + gerund."
+    },
+    {
+      "id": 32,
+      "type": "Preposition",
+      "question": "We should refrain ___ evil deeds.",
+      "answer": "from",
+      "explanation": "Refrain from."
+    },
+    {
+      "id": 33,
+      "type": "Preposition",
+      "question": "He is confident ___ his success.",
+      "answer": "of",
+      "explanation": "Confident of."
+    },
+    {
+      "id": 34,
+      "type": "Preposition",
+      "question": "I have no appetite ___ food.",
+      "answer": "for",
+      "explanation": "Appetite for."
+    },
+    {
+      "id": 35,
+      "type": "Preposition",
+      "question": "He is indifferent ___ my advice.",
+      "answer": "to",
+      "explanation": "Indifferent to = careless/apathetic."
+    },
+    {
+      "id": 36,
+      "type": "Preposition",
+      "question": "The boy is zealous ___ his duties.",
+      "answer": "for / in",
+      "explanation": "Zealous for."
+    },
+    {
+      "id": 37,
+      "type": "Preposition",
+      "question": "Do not jeer ___ the poor.",
+      "answer": "at",
+      "explanation": "Jeer at / laugh at / mock at."
+    },
+    {
+      "id": 38,
+      "type": "Preposition",
+      "question": "The man was cured ___ his disease.",
+      "answer": "of",
+      "explanation": "Cured of."
+    },
+    {
+      "id": 39,
+      "type": "Preposition",
+      "question": "He boasts ___ his high wealth.",
+      "answer": "of",
+      "explanation": "Boast of = brag."
+    },
+    {
+      "id": 40,
+      "type": "Preposition",
+      "question": "He is proficient ___ mathematics.",
+      "answer": "in",
+      "explanation": "Proficient in."
+    },
+    {
+      "id": 41,
+      "type": "Preposition",
+      "question": "Hard work is essential ___ success.",
+      "answer": "to",
+      "explanation": "Essential to."
+    },
+    {
+      "id": 42,
+      "type": "Preposition",
+      "question": "I am accustomed ___ getting up early.",
+      "answer": "to",
+      "explanation": "Accustomed to + gerund."
+    },
+    {
+      "id": 43,
+      "type": "Preposition",
+      "question": "He is tired ___ doing this routine job.",
+      "answer": "of",
+      "explanation": "Tired of."
+    },
+    {
+      "id": 44,
+      "type": "Preposition",
+      "question": "She is jealous ___ her neighbor's success.",
+      "answer": "of",
+      "explanation": "Jealous of / envious of."
+    },
+    {
+      "id": 45,
+      "type": "Preposition",
+      "question": "Man does not live ___ bread alone.",
+      "answer": "by",
+      "explanation": "Live by = depend on for survival."
+    },
+    {
+      "id": 46,
+      "type": "Preposition",
+      "question": "Cows live ___ grass.",
+      "answer": "on",
+      "explanation": "Live on = feed on."
+    },
+    {
+      "id": 47,
+      "type": "Preposition",
+      "question": "He gave ___ smoking last year.",
+      "answer": "up",
+      "explanation": "Give up = quit/abandon."
+    },
+    {
+      "id": 48,
+      "type": "Preposition",
+      "question": "Please turn ___ the lights before leaving.",
+      "answer": "off",
+      "explanation": "Turn off = switch off."
+    },
+    {
+      "id": 49,
+      "type": "Preposition",
+      "question": "He is eligible ___ the post.",
+      "answer": "for",
+      "explanation": "Eligible for."
+    },
+    {
+      "id": 50,
+      "type": "Preposition",
+      "question": "The thief broke ___ the house at night.",
+      "answer": "into",
+      "explanation": "Break into = enter forcefully."
+    },
+    {
+      "id": 51,
+      "type": "Article",
+      "question": "He is ___ honest man.",
+      "answer": "an",
+      "explanation": "Silent 'h' produces vowel sound."
+    },
+    {
+      "id": 52,
+      "type": "Article",
+      "question": "He studies at ___ university.",
+      "answer": "a",
+      "explanation": "'U' sounds like consonant /juː/."
+    },
+    {
+      "id": 53,
+      "type": "Article",
+      "question": "I saw ___ one-eyed man yesterday.",
+      "answer": "a",
+      "explanation": "'One' produces consonant /w/ sound."
+    },
+    {
+      "id": 54,
+      "type": "Article",
+      "question": "He is ___ M.B.B.S doctor.",
+      "answer": "an",
+      "explanation": "Abbreviation 'M' sounds like /em/."
+    },
+    {
+      "id": 55,
+      "type": "Article",
+      "question": "He is ___ B.A from Dhaka University.",
+      "answer": "a",
+      "explanation": "Abbreviation 'B' sounds like consonant /biː/."
+    },
+    {
+      "id": 56,
+      "type": "Article",
+      "question": "___ Padma is a mighty river.",
+      "answer": "The",
+      "explanation": "Names of rivers take 'The'."
+    },
+    {
+      "id": 57,
+      "type": "Article",
+      "question": "He reads ___ Quran every day.",
+      "answer": "the",
+      "explanation": "Holy scriptures take 'the'."
+    },
+    {
+      "id": 58,
+      "type": "Article",
+      "question": "___ gold of this ring is pure.",
+      "answer": "The",
+      "explanation": "Specific material noun with 'of' takes 'The'."
+    },
+    {
+      "id": 59,
+      "type": "Article",
+      "question": "___ richer they get, ___ more they want.",
+      "answer": "The ... the",
+      "explanation": "Double comparative requires 'The ... the'."
+    },
+    {
+      "id": 60,
+      "type": "Article",
+      "question": "He was elected ___ chairman of the club.",
+      "answer": "no article (x)",
+      "explanation": "Elected/appointed to a unique office takes no article."
+    },
+    {
+      "id": 61,
+      "type": "Article",
+      "question": "She plays ___ piano very well.",
+      "answer": "the",
+      "explanation": "Musical instruments take 'the'."
+    },
+    {
+      "id": 62,
+      "type": "Article",
+      "question": "He plays ___ cricket.",
+      "answer": "no article (x)",
+      "explanation": "Sports/games do not take an article."
+    },
+    {
+      "id": 63,
+      "type": "Article",
+      "question": "English is ___ international language.",
+      "answer": "an",
+      "explanation": "Vowel sound /ɪ/ takes 'an'."
+    },
+    {
+      "id": 64,
+      "type": "Article",
+      "question": "___ English speak English.",
+      "answer": "The",
+      "explanation": "'The English' means English nation."
+    },
+    {
+      "id": 65,
+      "type": "Article",
+      "question": "He came here on ___ foot.",
+      "answer": "no article (x)",
+      "explanation": "Phrase: 'on foot'."
+    },
+    {
+      "id": 66,
+      "type": "Article",
+      "question": "___ sun rises in ___ east.",
+      "answer": "The ... the",
+      "explanation": "Unique heavenly body and directions take 'the'."
+    },
+    {
+      "id": 67,
+      "type": "Article",
+      "question": "He is ___ Newton of modern science.",
+      "answer": "the",
+      "explanation": "Proper noun used as common comparison takes 'the'."
+    },
+    {
+      "id": 68,
+      "type": "Article",
+      "question": "He gave me ___ European currency.",
+      "answer": "a",
+      "explanation": "'European' starts with /juː/ consonant sound."
+    },
+    {
+      "id": 69,
+      "type": "Article",
+      "question": "He returned after ___ hour.",
+      "answer": "an",
+      "explanation": "Silent 'h' in 'hour' takes 'an'."
+    },
+    {
+      "id": 70,
+      "type": "Article",
+      "question": "___ Himalayas stand to the north of India.",
+      "answer": "The",
+      "explanation": "Mountain ranges take 'The'."
+    },
+    {
+      "id": 71,
+      "type": "Article",
+      "question": "He went to ___ hospital to see his sick friend.",
+      "answer": "the",
+      "explanation": "Visiting an institution for secondary purpose takes 'the'."
+    },
+    {
+      "id": 72,
+      "type": "Article",
+      "question": "He is in ___ bed with high fever.",
+      "answer": "no article (x)",
+      "explanation": "Idiomatic phrase: 'in bed'."
+    },
+    {
+      "id": 73,
+      "type": "Article",
+      "question": "Man is ___ social animal.",
+      "answer": "a",
+      "explanation": "Single countable noun in definition."
+    },
+    {
+      "id": 74,
+      "type": "Article",
+      "question": "This is ___ book I was looking for.",
+      "answer": "the",
+      "explanation": "Specific noun definite article."
+    },
+    {
+      "id": 75,
+      "type": "Article",
+      "question": "He left school at ___ age of sixteen.",
+      "answer": "the",
+      "explanation": "Phrase: 'at the age of'."
+    },
+    {
+      "id": 76,
+      "type": "Article",
+      "question": "We had ___ dinner at a famous restaurant.",
+      "answer": "no article (x)",
+      "explanation": "Meals of the day take no article."
+    },
+    {
+      "id": 77,
+      "type": "Article",
+      "question": "We had ___ wonderful dinner yesterday.",
+      "answer": "a",
+      "explanation": "Meal preceded by adjective takes 'a'."
+    },
+    {
+      "id": 78,
+      "type": "Article",
+      "question": "He is ___ honourable gentleman.",
+      "answer": "an",
+      "explanation": "Silent 'h' in 'honourable' takes 'an'."
+    },
+    {
+      "id": 79,
+      "type": "Article",
+      "question": "What ___ pity!",
+      "answer": "a",
+      "explanation": "Exclamation: 'What a pity!'"
+    },
+    {
+      "id": 80,
+      "type": "Article",
+      "question": "Strike ___ iron while it is hot.",
+      "answer": "the",
+      "explanation": "Proverb: 'Strike the iron while it is hot.'"
+    },
+    {
+      "id": 81,
+      "type": "Preposition",
+      "question": "Never look down ___ the poor.",
+      "answer": "upon",
+      "explanation": "Look down upon = despise/hate."
+    },
+    {
+      "id": 82,
+      "type": "Preposition",
+      "question": "The nurse is looking ___ the patient.",
+      "answer": "after",
+      "explanation": "Look after = take care of."
+    },
+    {
+      "id": 83,
+      "type": "Preposition",
+      "question": "He carried ___ my orders without hesitation.",
+      "answer": "out",
+      "explanation": "Carry out = execute/obey."
+    },
+    {
+      "id": 84,
+      "type": "Preposition",
+      "question": "Please call ___ a doctor immediately.",
+      "answer": "in",
+      "explanation": "Call in = send for."
+    },
+    {
+      "id": 85,
+      "type": "Preposition",
+      "question": "The strike was called ___ yesterday.",
+      "answer": "off",
+      "explanation": "Call off = withdraw/cancel."
+    },
+    {
+      "id": 86,
+      "type": "Preposition",
+      "question": "He was brought ___ by his maternal uncle.",
+      "answer": "up",
+      "explanation": "Bring up = rear/raise."
+    },
+    {
+      "id": 87,
+      "type": "Preposition",
+      "question": "I cannot put up ___ such insolent behavior.",
+      "answer": "with",
+      "explanation": "Put up with = tolerate/endure."
+    },
+    {
+      "id": 88,
+      "type": "Preposition",
+      "question": "Time and tide wait ___ no man.",
+      "answer": "for",
+      "explanation": "Wait for = await."
+    },
+    {
+      "id": 89,
+      "type": "Preposition",
+      "question": "The maid waited ___ the sick queen day and night.",
+      "answer": "on",
+      "explanation": "Wait on = serve/attend to."
+    },
+    {
+      "id": 90,
+      "type": "Preposition",
+      "question": "The teacher was angry ___ the student.",
+      "answer": "with",
+      "explanation": "Angry with a person. Angry at something."
+    },
+    {
+      "id": 91,
+      "type": "Preposition",
+      "question": "He was angry ___ my blunt refusal.",
+      "answer": "at",
+      "explanation": "Angry at conduct or remark."
+    },
+    {
+      "id": 92,
+      "type": "Preposition",
+      "question": "His words correspond ___ his actions.",
+      "answer": "to / with",
+      "explanation": "Correspond to/with = match."
+    },
+    {
+      "id": 93,
+      "type": "Preposition",
+      "question": "He is fully aware ___ his weaknesses.",
+      "answer": "of",
+      "explanation": "Aware of = conscious of."
+    },
+    {
+      "id": 94,
+      "type": "Preposition",
+      "question": "Be cautious ___ picking friends.",
+      "answer": "of / about",
+      "explanation": "Cautious of = careful."
+    },
+    {
+      "id": 95,
+      "type": "Preposition",
+      "question": "She is capable ___ doing hard labor.",
+      "answer": "of",
+      "explanation": "Capable of + V-ing."
+    },
+    {
+      "id": 96,
+      "type": "Preposition",
+      "question": "He was found guilty ___ breach of trust.",
+      "answer": "of",
+      "explanation": "Guilty of a crime."
+    },
+    {
+      "id": 97,
+      "type": "Preposition",
+      "question": "He is proud ___ his daughter's academic success.",
+      "answer": "of",
+      "explanation": "Proud of. Pride takes in."
+    },
+    {
+      "id": 98,
+      "type": "Preposition",
+      "question": "He takes pride ___ his noble lineage.",
+      "answer": "in",
+      "explanation": "Pride in."
+    },
+    {
+      "id": 99,
+      "type": "Preposition",
+      "question": "The country is lacking ___ natural mineral resources.",
+      "answer": "in",
+      "explanation": "Lacking in / deficient in."
+    },
+    {
+      "id": 100,
+      "type": "Preposition",
+      "question": "We are short ___ liquid cash at the moment.",
+      "answer": "of",
+      "explanation": "Short of = scarce."
+    },
+    {
+      "id": 101,
+      "type": "Preposition",
+      "question": "He is averse ___ gambling and alcohol.",
+      "answer": "to",
+      "explanation": "Averse to = reluctant/disinclined."
+    },
+    {
+      "id": 102,
+      "type": "Preposition",
+      "question": "Young minds are prone ___ making hasty errors.",
+      "answer": "to",
+      "explanation": "Prone to = susceptible to."
+    },
+    {
+      "id": 103,
+      "type": "Preposition",
+      "question": "Please attend ___ what your teacher says.",
+      "answer": "to",
+      "explanation": "Attend to = listen carefully."
+    },
+    {
+      "id": 104,
+      "type": "Preposition",
+      "question": "You must listen ___ wise counsel.",
+      "answer": "to",
+      "explanation": "Listen to."
+    },
+    {
+      "id": 105,
+      "type": "Preposition",
+      "question": "Nobody objected ___ the chairman's proposal.",
+      "answer": "to",
+      "explanation": "Object to + noun/gerund."
+    },
+    {
+      "id": 106,
+      "type": "Preposition",
+      "question": "The brave soldiers refused to yield ___ the enemy.",
+      "answer": "to",
+      "explanation": "Yield to = surrender to."
+    },
+    {
+      "id": 107,
+      "type": "Preposition",
+      "question": "We must submit ___ the verdict of the court.",
+      "answer": "to",
+      "explanation": "Submit to = yield/obey."
+    },
+    {
+      "id": 108,
+      "type": "Preposition",
+      "question": "He is very familiar ___ this local dialect.",
+      "answer": "with",
+      "explanation": "Familiar with a thing. Familiar to a person."
+    },
+    {
+      "id": 109,
+      "type": "Preposition",
+      "question": "His face looks familiar ___ me.",
+      "answer": "to",
+      "explanation": "Familiar to a person."
+    },
+    {
+      "id": 110,
+      "type": "Preposition",
+      "question": "One meter is roughly equal ___ 39.37 inches.",
+      "answer": "to",
+      "explanation": "Equal to."
+    },
+    {
+      "id": 111,
+      "type": "Preposition",
+      "question": "His watch is very similar ___ mine.",
+      "answer": "to",
+      "explanation": "Similar to."
+    },
+    {
+      "id": 112,
+      "type": "Preposition",
+      "question": "His signature is identical ___ the one on the passport.",
+      "answer": "with",
+      "explanation": "Identical with."
+    },
+    {
+      "id": 113,
+      "type": "Preposition",
+      "question": "Your argument is not relevant ___ the main topic.",
+      "answer": "to",
+      "explanation": "Relevant to / pertinent to."
+    },
+    {
+      "id": 114,
+      "type": "Preposition",
+      "question": "We must comply ___ the official terms.",
+      "answer": "with",
+      "explanation": "Comply with = agree to."
+    },
+    {
+      "id": 115,
+      "type": "Preposition",
+      "question": "My vacation coincides ___ the festival holidays.",
+      "answer": "with",
+      "explanation": "Coincide with = occur at same time."
+    },
+    {
+      "id": 116,
+      "type": "Preposition",
+      "question": "You should conform ___ the social norms.",
+      "answer": "to",
+      "explanation": "Conform to = adapt/obey."
+    },
+    {
+      "id": 117,
+      "type": "Preposition",
+      "question": "He adheres strictly ___ his principles.",
+      "answer": "to",
+      "explanation": "Adhere to = stick firmly."
+    },
+    {
+      "id": 118,
+      "type": "Preposition",
+      "question": "A child clings ___ its mother in fear.",
+      "answer": "to",
+      "explanation": "Cling to = hold tightly."
+    },
+    {
+      "id": 119,
+      "type": "Preposition",
+      "question": "You can rely ___ his sincere assistance.",
+      "answer": "on / upon",
+      "explanation": "Rely on = trust/depend."
+    },
+    {
+      "id": 120,
+      "type": "Preposition",
+      "question": "Do not count ___ unconfirmed promises.",
+      "answer": "on",
+      "explanation": "Count on = depend upon."
+    },
+    {
+      "id": 121,
+      "type": "Preposition",
+      "question": "Can I bank ___ your support during the election?",
+      "answer": "on",
+      "explanation": "Bank on = rely on."
+    },
+    {
+      "id": 122,
+      "type": "Preposition",
+      "question": "He persisted ___ claiming that he was innocent.",
+      "answer": "in",
+      "explanation": "Persist in + gerund."
+    },
+    {
+      "id": 123,
+      "type": "Preposition",
+      "question": "She succeeded ___ getting the prestigious scholarship.",
+      "answer": "in",
+      "explanation": "Succeed in + gerund."
+    },
+    {
+      "id": 124,
+      "type": "Preposition",
+      "question": "Do not indulge ___ vain gossip.",
+      "answer": "in",
+      "explanation": "Indulge in = engage excessively."
+    },
+    {
+      "id": 125,
+      "type": "Preposition",
+      "question": "Our country is deficient ___ skilled software engineers.",
+      "answer": "in",
+      "explanation": "Deficient in = lacking."
+    },
+    {
+      "id": 126,
+      "type": "Preposition",
+      "question": "Bangladesh is rich ___ fertile alluvial soil.",
+      "answer": "in",
+      "explanation": "Rich in = abundant with."
+    },
+    {
+      "id": 127,
+      "type": "Preposition",
+      "question": "He is barren ___ creative ideas.",
+      "answer": "of",
+      "explanation": "Barren of = devoid of."
+    },
+    {
+      "id": 128,
+      "type": "Preposition",
+      "question": "The criminal was stripped ___ his civic rights.",
+      "answer": "of",
+      "explanation": "Strip of = deprive of."
+    },
+    {
+      "id": 129,
+      "type": "Preposition",
+      "question": "He cleared the table ___ old paper napkins.",
+      "answer": "of",
+      "explanation": "Clear of."
+    },
+    {
+      "id": 130,
+      "type": "Preposition",
+      "question": "We must rid ourselves ___ corruption.",
+      "answer": "of",
+      "explanation": "Get rid of."
+    },
+    {
+      "id": 131,
+      "type": "Preposition",
+      "question": "He was healed ___ his chronic back pain.",
+      "answer": "of",
+      "explanation": "Heal of."
+    },
+    {
+      "id": 132,
+      "type": "Preposition",
+      "question": "She warned him ___ the imminent danger.",
+      "answer": "of / against",
+      "explanation": "Warn of/against."
+    },
+    {
+      "id": 133,
+      "type": "Preposition",
+      "question": "He was acquitted ___ all bribery charges.",
+      "answer": "of",
+      "explanation": "Acquit of = declare innocent."
+    },
+    {
+      "id": 134,
+      "type": "Preposition",
+      "question": "He was convicted ___ murder.",
+      "answer": "of",
+      "explanation": "Convict of a crime."
+    },
+    {
+      "id": 135,
+      "type": "Preposition",
+      "question": "The judge sentenced the convict ___ five years' rigorous imprisonment.",
+      "answer": "to",
+      "explanation": "Sentence to punishment."
+    },
+    {
+      "id": 136,
+      "type": "Preposition",
+      "question": "He was doomed ___ ultimate failure.",
+      "answer": "to",
+      "explanation": "Doomed to."
+    },
+    {
+      "id": 137,
+      "type": "Preposition",
+      "question": "He resigned himself ___ cruel fate.",
+      "answer": "to",
+      "explanation": "Resign oneself to."
+    },
+    {
+      "id": 138,
+      "type": "Preposition",
+      "question": "You must reconcile yourself ___ altered circumstances.",
+      "answer": "to",
+      "explanation": "Reconcile to."
+    },
+    {
+      "id": 139,
+      "type": "Preposition",
+      "question": "He was dismissed ___ government service.",
+      "answer": "from",
+      "explanation": "Dismiss from."
+    },
+    {
+      "id": 140,
+      "type": "Preposition",
+      "question": "The driver was exempted ___ paying the highway toll.",
+      "answer": "from",
+      "explanation": "Exempt from = free from."
+    },
+    {
+      "id": 141,
+      "type": "Preposition",
+      "question": "He was disqualified ___ running for parliament.",
+      "answer": "from",
+      "explanation": "Disqualify from."
+    },
+    {
+      "id": 142,
+      "type": "Preposition",
+      "question": "The treaty protects endangered birds ___ indiscriminate killing.",
+      "answer": "from",
+      "explanation": "Protect from."
+    },
+    {
+      "id": 143,
+      "type": "Preposition",
+      "question": "He recovered ___ a prolonged attack of malaria.",
+      "answer": "from",
+      "explanation": "Recover from an illness."
+    },
+    {
+      "id": 144,
+      "type": "Preposition",
+      "question": "We should dissuade youth ___ taking drugs.",
+      "answer": "from",
+      "explanation": "Dissuade from = advise against."
+    },
+    {
+      "id": 145,
+      "type": "Preposition",
+      "question": "He was excluded ___ the final squad.",
+      "answer": "from",
+      "explanation": "Exclude from."
+    },
+    {
+      "id": 146,
+      "type": "Preposition",
+      "question": "She excels ___ playing the violin.",
+      "answer": "in",
+      "explanation": "Excel in = surpass others."
+    },
+    {
+      "id": 147,
+      "type": "Preposition",
+      "question": "He is experienced ___ handling international logistics.",
+      "answer": "in",
+      "explanation": "Experienced in."
+    },
+    {
+      "id": 148,
+      "type": "Preposition",
+      "question": "Do you believe ___ life after death?",
+      "answer": "in",
+      "explanation": "Believe in."
+    },
+    {
+      "id": 149,
+      "type": "Preposition",
+      "question": "The doctor specializes ___ neurology.",
+      "answer": "in",
+      "explanation": "Specialize in."
+    },
+    {
+      "id": 150,
+      "type": "Preposition",
+      "question": "The inquiry originated ___ a whistleblower's report.",
+      "answer": "in",
+      "explanation": "Originate in/from."
+    },
+    {
+      "id": 151,
+      "type": "Preposition",
+      "question": "He was born ___ noble parents.",
+      "answer": "of",
+      "explanation": "Born of parents. Born in a year/place."
+    },
+    {
+      "id": 152,
+      "type": "Preposition",
+      "question": "She is tired ___ endless waiting.",
+      "answer": "of",
+      "explanation": "Tired of."
+    },
+    {
+      "id": 153,
+      "type": "Preposition",
+      "question": "He is sick ___ your endless complaining.",
+      "answer": "of",
+      "explanation": "Sick of = disgusted with."
+    },
+    {
+      "id": 154,
+      "type": "Preposition",
+      "question": "He is suspicious ___ his assistant's movements.",
+      "answer": "of",
+      "explanation": "Suspicious of."
+    },
+    {
+      "id": 155,
+      "type": "Preposition",
+      "question": "She is jealous ___ my success.",
+      "answer": "of",
+      "explanation": "Jealous of / envious of."
+    },
+    {
+      "id": 156,
+      "type": "Preposition",
+      "question": "Be tolerant ___ others' dissenting views.",
+      "answer": "of",
+      "explanation": "Tolerant of."
+    },
+    {
+      "id": 157,
+      "type": "Preposition",
+      "question": "He is careless ___ his attire.",
+      "answer": "of / about",
+      "explanation": "Careless of."
+    },
+    {
+      "id": 158,
+      "type": "Preposition",
+      "question": "She is mindful ___ her parents' comfort.",
+      "answer": "of",
+      "explanation": "Mindful of."
+    },
+    {
+      "id": 159,
+      "type": "Preposition",
+      "question": "He is regardless ___ the impending consequences.",
+      "answer": "of",
+      "explanation": "Regardless of."
+    },
+    {
+      "id": 160,
+      "type": "Preposition",
+      "question": "She is envious ___ her sister's wealth.",
+      "answer": "of",
+      "explanation": "Envious of."
+    },
+    {
+      "id": 161,
+      "type": "Preposition",
+      "question": "He acts ___ the advice of his physician.",
+      "answer": "upon / on",
+      "explanation": "Act on/upon = follow advice."
+    },
+    {
+      "id": 162,
+      "type": "Preposition",
+      "question": "The police caught the thief ___ the neck.",
+      "answer": "by",
+      "explanation": "Caught by the neck/arm."
+    },
+    {
+      "id": 163,
+      "type": "Preposition",
+      "question": "He has a great passion ___ cricket.",
+      "answer": "for",
+      "explanation": "Passion for."
+    },
+    {
+      "id": 164,
+      "type": "Preposition",
+      "question": "She was dressed ___ white silk.",
+      "answer": "in",
+      "explanation": "Dressed in clothes/colors."
+    },
+    {
+      "id": 165,
+      "type": "Preposition",
+      "question": "He took pity ___ the starving beggar.",
+      "answer": "on",
+      "explanation": "Pity on."
+    },
+    {
+      "id": 166,
+      "type": "Preposition",
+      "question": "He rejoiced ___ his brother's safe return.",
+      "answer": "at / in",
+      "explanation": "Rejoice at/in."
+    },
+    {
+      "id": 167,
+      "type": "Preposition",
+      "question": "The judge is free ___ partiality.",
+      "answer": "from",
+      "explanation": "Free from."
+    },
+    {
+      "id": 168,
+      "type": "Preposition",
+      "question": "He is innocent ___ the murder charge.",
+      "answer": "of",
+      "explanation": "Innocent of a crime."
+    },
+    {
+      "id": 169,
+      "type": "Preposition",
+      "question": "She is proficient ___ vocal music.",
+      "answer": "in",
+      "explanation": "Proficient in a subject/art."
+    },
+    {
+      "id": 170,
+      "type": "Preposition",
+      "question": "The river abounds ___ various fishes.",
+      "answer": "with",
+      "explanation": "Abound with = full of. Fishes abound in the river."
+    },
+    {
+      "id": 171,
+      "type": "Preposition",
+      "question": "He compensates me ___ the financial loss.",
+      "answer": "for",
+      "explanation": "Compensate for."
+    },
+    {
+      "id": 172,
+      "type": "Preposition",
+      "question": "He is indebted ___ his mentor for his guidance.",
+      "answer": "to",
+      "explanation": "Indebted to a person for something."
+    },
+    {
+      "id": 173,
+      "type": "Preposition",
+      "question": "You must answer ___ your misconduct.",
+      "answer": "for",
+      "explanation": "Answer for = be accountable for."
+    },
+    {
+      "id": 174,
+      "type": "Preposition",
+      "question": "He apologized ___ his rude remark.",
+      "answer": "for",
+      "explanation": "Apologize for an act. Apologize to a person."
+    },
+    {
+      "id": 175,
+      "type": "Preposition",
+      "question": "The student appealed ___ the principal for pardon.",
+      "answer": "to",
+      "explanation": "Appeal to a person for something."
+    },
+    {
+      "id": 176,
+      "type": "Preposition",
+      "question": "He was charged ___ high treason.",
+      "answer": "with",
+      "explanation": "Charged with a serious crime."
+    },
+    {
+      "id": 177,
+      "type": "Preposition",
+      "question": "The doctor prescribed a cure ___ headaches.",
+      "answer": "for",
+      "explanation": "Cure for a problem."
+    },
+    {
+      "id": 178,
+      "type": "Preposition",
+      "question": "He is qualified ___ the post of officer.",
+      "answer": "for",
+      "explanation": "Qualified for."
+    },
+    {
+      "id": 179,
+      "type": "Preposition",
+      "question": "Smoking tells ___ one's lungs adversely.",
+      "answer": "upon",
+      "explanation": "Tell upon = damage/affect."
+    },
+    {
+      "id": 180,
+      "type": "Preposition",
+      "question": "He parted ___ his ancestral property with tears.",
+      "answer": "with",
+      "explanation": "Part with a thing. Part from a person."
+    }
+  ]
+}

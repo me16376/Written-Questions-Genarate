@@ -1,0 +1,545 @@
+{
+  "subject": "সাধারণ জ্ঞান",
+  "subject_code": "GK-04",
+  "topic": "পূর্ণরূপ লিখুন",
+  "topic_en": "Write Full Forms / Abbreviations",
+  "total_items": 89,
+  "description": "সরকারি চাকরির লিখিত পরীক্ষায় সাধারণ জ্ঞান অংশে ৫ নম্বরের জন্য সর্বাধিক কমন উপযোগী পূর্ণরূপ ও ব্যাখ্যা।",
+  "exam_tip": "খাতায় লেখার নিয়ম: সংক্ষিপ্ত রূপের বানান নির্ভুলভাবে লিখে কোলন (:) দিয়ে ক্যাপিটাল বা যথাযথ কেসে পূর্ণরূপ লিখবেন।",
+  "items": [
+    {
+      "id": 1,
+      "abbreviation": "DSS",
+      "full_form": "Department of Social Services",
+      "bangla_meaning": "সমাজসেবা অধিদপ্তর (সমাজকল্যাণ মন্ত্রণালয়ের অধীন)"
+    },
+    {
+      "id": 2,
+      "abbreviation": "MSS",
+      "full_form": "Ministry of Social Welfare",
+      "bangla_meaning": "সমাজকল্যাণ মন্ত্রণালয়"
+    },
+    {
+      "id": 3,
+      "abbreviation": "G2P",
+      "full_form": "Government to Person",
+      "bangla_meaning": "সরকারি সামাজিক নিরাপত্তা ভাতা সরাসরি উপকারভোগীর অ্যাকাউন্টে প্রেরণ পদ্ধতি"
+    },
+    {
+      "id": 4,
+      "abbreviation": "BARD",
+      "full_form": "Bangladesh Academy for Rural Development",
+      "bangla_meaning": "বাংলাদেশ পল্লী উন্নয়ন একাডেমি (কুমিল্লায় অবস্থিত, প্রতিষ্ঠাতা ড. আখতার হামিদ খান)"
+    },
+    {
+      "id": 5,
+      "abbreviation": "BRAC",
+      "full_form": "Building Resources Across Communities",
+      "bangla_meaning": "বিশ্বের অন্যতম বৃহৎ বেসরকারি উন্নয়ন সংস্থা (প্রতিষ্ঠাতা স্যার ফজলে হাসান আবেদ)"
+    },
+    {
+      "id": 6,
+      "abbreviation": "BBS",
+      "full_form": "Bangladesh Bureau of Statistics",
+      "bangla_meaning": "বাংলাদেশ পরিসংখ্যান ব্যুরো"
+    },
+    {
+      "id": 7,
+      "abbreviation": "BTRC",
+      "full_form": "Bangladesh Telecommunication Regulatory Commission",
+      "bangla_meaning": "বাংলাদেশ টেলিযোগাযোগ নিয়ন্ত্রণ কমিশন"
+    },
+    {
+      "id": 8,
+      "abbreviation": "NID",
+      "full_form": "National Identity",
+      "bangla_meaning": "জাতীয় পরিচয়পত্র"
+    },
+    {
+      "id": 9,
+      "abbreviation": "ICT",
+      "full_form": "Information and Communication Technology",
+      "bangla_meaning": "তথ্য ও যোগাযোগ প্রযুক্তি"
+    },
+    {
+      "id": 10,
+      "abbreviation": "VAT",
+      "full_form": "Value Added Tax",
+      "bangla_meaning": "মূল্য সংযোজন কর (মূসক)"
+    },
+    {
+      "id": 11,
+      "abbreviation": "TIN",
+      "full_form": "Taxpayer Identification Number",
+      "bangla_meaning": "করদাতা শনাক্তকরণ নম্বর"
+    },
+    {
+      "id": 12,
+      "abbreviation": "BIN",
+      "full_form": "Business Identification Number",
+      "bangla_meaning": "ব্যবসায়ী শনাক্তকরণ নম্বর"
+    },
+    {
+      "id": 13,
+      "abbreviation": "GDP",
+      "full_form": "Gross Domestic Product",
+      "bangla_meaning": "মোট দেশজ উৎপাদন"
+    },
+    {
+      "id": 14,
+      "abbreviation": "GNP",
+      "full_form": "Gross National Product",
+      "bangla_meaning": "মোট জাতীয় উৎপাদন"
+    },
+    {
+      "id": 15,
+      "abbreviation": "NBR",
+      "full_form": "National Board of Revenue",
+      "bangla_meaning": "জাতীয় রাজস্ব বোর্ড"
+    },
+    {
+      "id": 16,
+      "abbreviation": "BAPEX",
+      "full_form": "Bangladesh Petroleum Exploration and Production Company Limited",
+      "bangla_meaning": "বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন অ্যান্ড প্রোডাকশন কোম্পানি"
+    },
+    {
+      "id": 17,
+      "abbreviation": "EPZ",
+      "full_form": "Export Processing Zone",
+      "bangla_meaning": "রপ্তানি প্রক্রিয়াকরণ অঞ্চল"
+    },
+    {
+      "id": 18,
+      "abbreviation": "BEZA",
+      "full_form": "Bangladesh Economic Zones Authority",
+      "bangla_meaning": "বাংলাদেশ অর্থনৈতিক অঞ্চল কর্তৃপক্ষ"
+    },
+    {
+      "id": 19,
+      "abbreviation": "BIDA",
+      "full_form": "Bangladesh Investment Development Authority",
+      "bangla_meaning": "বাংলাদেশ বিনিয়োগ উন্নয়ন কর্তৃপক্ষ"
+    },
+    {
+      "id": 20,
+      "abbreviation": "BPSC",
+      "full_form": "Bangladesh Public Service Commission",
+      "bangla_meaning": "বাংলাদেশ সরকারি কর্ম কমিশন"
+    },
+    {
+      "id": 21,
+      "abbreviation": "ACC",
+      "full_form": "Anti-Corruption Commission",
+      "bangla_meaning": "দুর্নীতি দমন কমিশন (দুদক)"
+    },
+    {
+      "id": 22,
+      "abbreviation": "EC",
+      "full_form": "Election Commission",
+      "bangla_meaning": "বাংলাদেশ নির্বাচন কমিশন"
+    },
+    {
+      "id": 23,
+      "abbreviation": "UGC",
+      "full_form": "University Grants Commission",
+      "bangla_meaning": "বিশ্ববিদ্যালয় মঞ্জুরী কমিশন"
+    },
+    {
+      "id": 24,
+      "abbreviation": "BANBEIS",
+      "full_form": "Bangladesh Bureau of Educational Information and Statistics",
+      "bangla_meaning": "বাংলাদেশ শিক্ষাতথ্য ও পরিসংখ্যান ব্যুরো"
+    },
+    {
+      "id": 25,
+      "abbreviation": "BIWTA",
+      "full_form": "Bangladesh Inland Water Transport Authority",
+      "bangla_meaning": "বাংলাদেশ অভ্যন্তরীণ নৌপরিবহন কর্তৃপক্ষ"
+    },
+    {
+      "id": 26,
+      "abbreviation": "BPDB",
+      "full_form": "Bangladesh Power Development Board",
+      "bangla_meaning": "বাংলাদেশ বিদ্যুৎ উন্নয়ন বোর্ড"
+    },
+    {
+      "id": 27,
+      "abbreviation": "BREB",
+      "full_form": "Bangladesh Rural Electrification Board",
+      "bangla_meaning": "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড"
+    },
+    {
+      "id": 28,
+      "abbreviation": "WASA",
+      "full_form": "Water Supply and Sewerage Authority",
+      "bangla_meaning": "পানি সরবরাহ ও পয়ঃনিষ্কাশন কর্তৃপক্ষ"
+    },
+    {
+      "id": 29,
+      "abbreviation": "BRTC",
+      "full_form": "Bangladesh Road Transport Corporation",
+      "bangla_meaning": "বাংলাদেশ সড়ক পরিবহন কর্পোরেশন"
+    },
+    {
+      "id": 30,
+      "abbreviation": "BRTA",
+      "full_form": "Bangladesh Road Transport Authority",
+      "bangla_meaning": "বাংলাদেশ সড়ক পরিবহন কর্তৃপক্ষ"
+    },
+    {
+      "id": 31,
+      "abbreviation": "RAB",
+      "full_form": "Rapid Action Battalion",
+      "bangla_meaning": "র‍্যাপিড অ্যাকশন ব্যাটালিয়ন"
+    },
+    {
+      "id": 32,
+      "abbreviation": "BGB",
+      "full_form": "Border Guard Bangladesh",
+      "bangla_meaning": "বর্ডার গার্ড বাংলাদেশ"
+    },
+    {
+      "id": 33,
+      "abbreviation": "UN",
+      "full_form": "United Nations",
+      "bangla_meaning": "জাতিসংঘ (প্রতিষ্ঠা: ২৪ অক্টোবর ১৯৪৫)"
+    },
+    {
+      "id": 34,
+      "abbreviation": "UNDP",
+      "full_form": "United Nations Development Programme",
+      "bangla_meaning": "জাতিসংঘ উন্নয়ন কর্মসূচি (সদর দফতর: নিউ ইয়র্ক)"
+    },
+    {
+      "id": 35,
+      "abbreviation": "UNICEF",
+      "full_form": "United Nations International Children's Emergency Fund",
+      "bangla_meaning": "জাতিসংঘ আন্তর্জাতিক শিশু জরুরি তহবিল (সদর দফতর: নিউ ইয়র্ক)"
+    },
+    {
+      "id": 36,
+      "abbreviation": "UNESCO",
+      "full_form": "United Nations Educational, Scientific and Cultural Organization",
+      "bangla_meaning": "জাতিসংঘ শিক্ষা, বিজ্ঞান ও সংস্কৃতি সংস্থা (সদর দফতর: প্যারিস)"
+    },
+    {
+      "id": 37,
+      "abbreviation": "WHO",
+      "full_form": "World Health Organization",
+      "bangla_meaning": "বিশ্ব স্বাস্থ্য সংস্থা (সদর দফতর: জেনেভা, সুইজারল্যান্ড)"
+    },
+    {
+      "id": 38,
+      "abbreviation": "WTO",
+      "full_form": "World Trade Organization",
+      "bangla_meaning": "বিশ্ব বাণিজ্য সংস্থা (সদর দফতর: জেনেভা)"
+    },
+    {
+      "id": 39,
+      "abbreviation": "ILO",
+      "full_form": "International Labour Organization",
+      "bangla_meaning": "আন্তর্জাতিক শ্রম সংস্থা (সদর দফতর: জেনেভা)"
+    },
+    {
+      "id": 40,
+      "abbreviation": "FAO",
+      "full_form": "Food and Agriculture Organization",
+      "bangla_meaning": "জাতিসংঘের খাদ্য ও কৃষি সংস্থা (সদর দফতর: রোম, ইতালি)"
+    },
+    {
+      "id": 41,
+      "abbreviation": "UNHCR",
+      "full_form": "United Nations High Commissioner for Refugees",
+      "bangla_meaning": "জাতিসংঘ শরণার্থী বিষয়ক হাইকমিশনার (সদর দফতর: জেনেভা)"
+    },
+    {
+      "id": 42,
+      "abbreviation": "UNFPA",
+      "full_form": "United Nations Population Fund",
+      "bangla_meaning": "জাতিসংঘ জনসংখ্যা তহবিল"
+    },
+    {
+      "id": 43,
+      "abbreviation": "UNEP",
+      "full_form": "United Nations Environment Programme",
+      "bangla_meaning": "জাতিসংঘ পরিবেশ কর্মসূচি (সদর দফতর: নাইরোবি, কেনিয়া)"
+    },
+    {
+      "id": 44,
+      "abbreviation": "IMF",
+      "full_form": "International Monetary Fund",
+      "bangla_meaning": "আন্তর্জাতিক মুদ্রা তহবিল (সদর দফতর: ওয়াশিংটন ডিসি)"
+    },
+    {
+      "id": 45,
+      "abbreviation": "WB",
+      "full_form": "World Bank",
+      "bangla_meaning": "বিশ্বব্যাংক (সদর দফতর: ওয়াশিংটন ডিসি)"
+    },
+    {
+      "id": 46,
+      "abbreviation": "ADB",
+      "full_form": "Asian Development Bank",
+      "bangla_meaning": "এশীয় উন্নয়ন ব্যাংক (সদর দফতর: ম্যানিলা, ফিলিপাইন)"
+    },
+    {
+      "id": 47,
+      "abbreviation": "AIIB",
+      "full_form": "Asian Infrastructure Investment Bank",
+      "bangla_meaning": "এশীয় অবকাঠামো বিনিয়োগ ব্যাংক (সদর দফতর: বেইজিং, চীন)"
+    },
+    {
+      "id": 48,
+      "abbreviation": "NDB",
+      "full_form": "New Development Bank",
+      "bangla_meaning": "ব্রিকস ব্যাংক নামে পরিচিত (সদর দফতর: সাংহাই, চীন)"
+    },
+    {
+      "id": 49,
+      "abbreviation": "IDB",
+      "full_form": "Islamic Development Bank",
+      "bangla_meaning": "ইসলামী উন্নয়ন ব্যাংক (সদর দফতর: জেদ্দা, সৌদি আরব)"
+    },
+    {
+      "id": 50,
+      "abbreviation": "SAARC",
+      "full_form": "South Asian Association for Regional Cooperation",
+      "bangla_meaning": "দক্ষিণ এশীয় আঞ্চলিক সহযোগিতা সংস্থা (সদর দফতর: কাঠমান্ডু)"
+    },
+    {
+      "id": 51,
+      "abbreviation": "BIMSTEC",
+      "full_form": "Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation",
+      "bangla_meaning": "বঙ্গোপসাগরীয় বহু-খাতীয় প্রযুক্তিগত ও অর্থনৈতিক সহযোগিতা উদ্যোগ (সদর দফতর: ঢাকা)"
+    },
+    {
+      "id": 52,
+      "abbreviation": "ASEAN",
+      "full_form": "Association of Southeast Asian Nations",
+      "bangla_meaning": "দক্ষিণ-পূর্ব এশীয় জাতিসমূহের সংস্থা (সদর দফতর: জাকার্তা)"
+    },
+    {
+      "id": 53,
+      "abbreviation": "OIC",
+      "full_form": "Organisation of Islamic Cooperation",
+      "bangla_meaning": "ইসলামী সহযোগিতা সংস্থা (সদর দফতর: জেদ্দা)"
+    },
+    {
+      "id": 54,
+      "abbreviation": "NAM",
+      "full_form": "Non-Aligned Movement",
+      "bangla_meaning": "জোটনিরপেক্ষ আন্দোলন (প্রতিষ্ঠা: ১৯৬১, বেলগ্রেড)"
+    },
+    {
+      "id": 55,
+      "abbreviation": "NATO",
+      "full_form": "North Atlantic Treaty Organization",
+      "bangla_meaning": "উত্তর আটলান্টিক নিরাপত্তা জোট (সদর দফতর: ব্রাসেলস, বেলজিয়াম)"
+    },
+    {
+      "id": 56,
+      "abbreviation": "EU",
+      "full_form": "European Union",
+      "bangla_meaning": "ইউরোপীয় ইউনিয়ন (সদর দফতর: ব্রাসেলস)"
+    },
+    {
+      "id": 57,
+      "abbreviation": "AU",
+      "full_form": "African Union",
+      "bangla_meaning": "আফ্রিকান ইউনিয়ন (সদর দফতর: আদ্দিস আবাবা, ইথিওপিয়া)"
+    },
+    {
+      "id": 58,
+      "abbreviation": "OPEC",
+      "full_form": "Organization of the Petroleum Exporting Countries",
+      "bangla_meaning": "তেল রপ্তানিকারক দেশসমূহের সংস্থা (সদর দফতর: ভিয়েনা, অস্ট্রিয়া)"
+    },
+    {
+      "id": 59,
+      "abbreviation": "INTERPOL",
+      "full_form": "International Criminal Police Organization",
+      "bangla_meaning": "আন্তর্জাতিক অপরাধ দমন পুলিশ সংস্থা (সদর দফতর: লিওঁ, ফ্রান্স)"
+    },
+    {
+      "id": 60,
+      "abbreviation": "ICJ",
+      "full_form": "International Court of Justice",
+      "bangla_meaning": "আন্তর্জাতিক বিচারালয় (সদর দফতর: দ্য হেগ, নেদারল্যান্ডস)"
+    },
+    {
+      "id": 61,
+      "abbreviation": "ICC",
+      "full_form": "International Criminal Court",
+      "bangla_meaning": "আন্তর্জাতিক অপরাধ আদালত (সদর দফতর: দ্য হেগ)"
+    },
+    {
+      "id": 62,
+      "abbreviation": "ICRC",
+      "full_form": "International Committee of the Red Cross",
+      "bangla_meaning": "আন্তর্জাতিক রেড ক্রস কমিটি (সদর দফতর: জেনেভা)"
+    },
+    {
+      "id": 63,
+      "abbreviation": "COP",
+      "full_form": "Conference of the Parties",
+      "bangla_meaning": "জাতিসংঘের বৈশ্বিক জলবায়ু সম্মেলন"
+    },
+    {
+      "id": 64,
+      "abbreviation": "IPCC",
+      "full_form": "Intergovernmental Panel on Climate Change",
+      "bangla_meaning": "জলবায়ু পরিবর্তন সংক্রান্ত আন্তঃসরকার প্যানেল"
+    },
+    {
+      "id": 65,
+      "abbreviation": "SDG",
+      "full_form": "Sustainable Development Goals",
+      "bangla_meaning": "টেকসই উন্নয়ন লক্ষ্যমাত্রা (মেয়াদ: ২০১৬-২০৩০, ১৭টি লক্ষ্য ও ১৬৯টি টার্গেট)"
+    },
+    {
+      "id": 66,
+      "abbreviation": "MDG",
+      "full_form": "Millennium Development Goals",
+      "bangla_meaning": "সহস্রাব্দ উন্নয়ন লক্ষ্যমাত্রা (মেয়াদ: ২০০০-২০১৫, ৮টি লক্ষ্য)"
+    },
+    {
+      "id": 67,
+      "abbreviation": "AIDS",
+      "full_form": "Acquired Immune Deficiency Syndrome",
+      "bangla_meaning": "এইচআইভি ভাইরাস ঘটিত মারাত্মক রোগ"
+    },
+    {
+      "id": 68,
+      "abbreviation": "HIV",
+      "full_form": "Human Immunodeficiency Virus",
+      "bangla_meaning": "মানবদেহের রোগ প্রতিরোধ ক্ষমতা ধ্বংসকারী ভাইরাস"
+    },
+    {
+      "id": 69,
+      "abbreviation": "DNA",
+      "full_form": "Deoxyribonucleic Acid",
+      "bangla_meaning": "জীবদেহের বংশগতির প্রধান আণবিক ভিত্তি"
+    },
+    {
+      "id": 70,
+      "abbreviation": "RNA",
+      "full_form": "Ribonucleic Acid",
+      "bangla_meaning": "রাইবোনিউক্লিক অ্যাসিড"
+    },
+    {
+      "id": 71,
+      "abbreviation": "SIM",
+      "full_form": "Subscriber Identity Module",
+      "bangla_meaning": "মুঠোফোনের গ্রাহক পরিচয় মডিউল"
+    },
+    {
+      "id": 72,
+      "abbreviation": "PIN",
+      "full_form": "Personal Identification Number",
+      "bangla_meaning": "ব্যক্তিগত গোপন শনাক্তকরণ নম্বর"
+    },
+    {
+      "id": 73,
+      "abbreviation": "ATM",
+      "full_form": "Automated Teller Machine",
+      "bangla_meaning": "স্বয়ংক্রিয় টাকা উত্তোলন যন্ত্র"
+    },
+    {
+      "id": 74,
+      "abbreviation": "OTP",
+      "full_form": "One-Time Password",
+      "bangla_meaning": "এককালীন ব্যবহারযোগ্য নিরাপত্তা পাসওয়ার্ড"
+    },
+    {
+      "id": 75,
+      "abbreviation": "URL",
+      "full_form": "Uniform Resource Locator",
+      "bangla_meaning": "ওয়েব ঠিকানার মানসম্মত রূপ"
+    },
+    {
+      "id": 76,
+      "abbreviation": "HTTP",
+      "full_form": "Hypertext Transfer Protocol",
+      "bangla_meaning": "ওয়েব ডেটা আদান-প্রদানের প্রটোকল"
+    },
+    {
+      "id": 77,
+      "abbreviation": "HTTPS",
+      "full_form": "Hypertext Transfer Protocol Secure",
+      "bangla_meaning": "নিরাপদ এনক্রিপ্টেড ওয়েব প্রটোকল"
+    },
+    {
+      "id": 78,
+      "abbreviation": "HTML",
+      "full_form": "Hypertext Markup Language",
+      "bangla_meaning": "ওয়েব পেজ তৈরির মূল ভাষা"
+    },
+    {
+      "id": 79,
+      "abbreviation": "PDF",
+      "full_form": "Portable Document Format",
+      "bangla_meaning": "ইলেকট্রনিক ডকুমেন্ট ফাইল ফরম্যাট"
+    },
+    {
+      "id": 80,
+      "abbreviation": "Wi-Fi",
+      "full_form": "Wireless Fidelity",
+      "bangla_meaning": "বেতার ইন্টারনেট সংযোগ প্রযুক্তি"
+    },
+    {
+      "id": 81,
+      "abbreviation": "AI",
+      "full_form": "Artificial Intelligence",
+      "bangla_meaning": "কৃত্রিম বুদ্ধিমত্তা"
+    },
+    {
+      "id": 82,
+      "abbreviation": "GPS",
+      "full_form": "Global Positioning System",
+      "bangla_meaning": "বৈশ্বিক অবস্থান নির্ণায়ক ব্যবস্থা"
+    },
+    {
+      "id": 83,
+      "abbreviation": "RAM",
+      "full_form": "Random Access Memory",
+      "bangla_meaning": "কম্পিউটারের অস্থায়ী মেমোরি"
+    },
+    {
+      "id": 84,
+      "abbreviation": "ROM",
+      "full_form": "Read-Only Memory",
+      "bangla_meaning": "কম্পিউটারের স্থায়ী পাঠযোগ্য মেমোরি"
+    },
+    {
+      "id": 85,
+      "abbreviation": "CPU",
+      "full_form": "Central Processing Unit",
+      "bangla_meaning": "কম্পিউটারের কেন্দ্রীয় প্রক্রিয়াকরণ অংশ (মস্তিষ্ক)"
+    },
+    {
+      "id": 86,
+      "abbreviation": "USB",
+      "full_form": "Universal Serial Bus",
+      "bangla_meaning": "কম্পিউটার সংযোগ পোর্ট"
+    },
+    {
+      "id": 87,
+      "abbreviation": "LAN",
+      "full_form": "Local Area Network",
+      "bangla_meaning": "স্থানীয় কম্পিউটার নেটওয়ার্ক"
+    },
+    {
+      "id": 88,
+      "abbreviation": "WAN",
+      "full_form": "Wide Area Network",
+      "bangla_meaning": "বিস্তৃত এলাকার কম্পিউটার নেটওয়ার্ক"
+    },
+    {
+      "id": 89,
+      "abbreviation": "NGO",
+      "full_form": "Non-Governmental Organization",
+      "bangla_meaning": "বেসরকারি উন্নয়ন সংস্থা"
+    }
+  ]
+}

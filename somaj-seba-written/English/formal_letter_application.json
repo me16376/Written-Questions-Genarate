@@ -1,0 +1,46 @@
+{
+  "subject": "English",
+  "subject_code": "english",
+  "topic": "Formal Applications & Letter Writing (10 Master Sets)",
+  "topic_code": "formal_letter_application",
+  "mark_distribution": "5 Marks",
+  "exam_tips": "Always keep formal applications concise and aligned to standard business letter format: Date, Receiver's Designation, Subject Line, Salutation, Body Paragraphs, and Courteous Subscription with Signature.",
+  "total_items": 5,
+  "items": [
+    {
+      "id": 1,
+      "title": "Application for the Post of an Office Assistant (Job Application with CV)",
+      "type": "Job Application",
+      "key_points": "Reference to newspaper circular, academic qualifications, computer skills, CV enclosure.",
+      "model_answer": "October 14, 2024\n\nThe Director General,\nDepartment of Social Services,\nSocial Services Bhaban, Agargaon, Dhaka-1207.\n\nSubject: Application for the post of 'Office Assistant-cum-Computer Typist'.\n\nDear Sir,\nWith reference to your advertisement published in 'The Daily Star' on October 8, 2024, I would like to offer myself as a candidate for the post of 'Office Assistant-cum-Computer Typist' in your esteemed department.\n\nMy detailed curriculum vitae along with attested copies of academic certificates, national identity card, and experience certificates are enclosed herewith for your kind consideration.\n\nI, therefore, pray and hope that you would kindly grant me an opportunity to appear in the written test and viva voce to prove my competence for the post.\n\nYours faithfully,\n\n(Md. Tanvir Ahmed)\nEnclosures: Complete CV and attested certificates."
+    },
+    {
+      "id": 2,
+      "title": "Application to the UNO for Relief Goods for Flood-affected People",
+      "type": "Official Application",
+      "key_points": "Devastating flood scenario, loss of crops and homes, urgent need for dry food and medical support.",
+      "model_answer": "October 16, 2024\n\nThe Upazila Nirbahi Officer (UNO),\nFeni Sadar, Feni.\n\nSubject: Prayer for relief goods and medical assistance for flood victims.\n\nSir,\nWe, the inhabitants of Ward No. 4 under Feni Sadar Upazila, beg to draw your kind attention to the fact that recent catastrophic flash floods have submerged our entire locality. Thousands of people have become marooned without shelter, safe drinking water, and food. Waterborne diseases are breaking out rapidly.\n\nUnder these circumstances, we earnestly pray and hope that you would be kind enough to dispatch emergency dry food, clean drinking water, and medical teams to the affected area without delay.\n\nYours faithfully,\nThe inhabitants of Ward No. 4,\nFeni Sadar, Feni."
+    },
+    {
+      "id": 3,
+      "title": "Application to the Bank Manager for Opening a Bank Account",
+      "type": "Formal Letter",
+      "key_points": "Purpose of account, account type (Savings), enclosures (NID, photo, introducer info).",
+      "model_answer": "October 18, 2024\n\nThe Branch Manager,\nSonali Bank PLC,\nSherpur Branch, Bogura.\n\nSubject: Request to open a Savings Bank Account.\n\nDear Sir,\nI would like to open a Savings Bank Account with your renowned branch. I am submitting the duly filled-in application form along with two passport-sized photographs, a copy of my National Identity Card, and utility bill documents as required.\n\nI kindly request you to approve my application and issue an account number at your earliest convenience.\n\nYours faithfully,\n(Md. Arifur Rahman)\nSherpur, Bogura.\nCell: 01711-000000"
+    },
+    {
+      "id": 4,
+      "title": "Letter to the Editor Regarding the Price Hike of Essential Commodities",
+      "type": "Letter to Editor",
+      "key_points": "Unbearable rise in daily essentials prices, impact on low-income families, market monitoring appeal.",
+      "model_answer": "October 20, 2024\n\nThe Editor,\nThe Daily Star,\nDhaka, Bangladesh.\n\nSubject: Skyrocketing prices of daily essential commodities.\n\nSir,\nI shall be grateful if you kindly publish the following letter in the prestigious column of your daily newspaper.\n\nThe recent abnormal price hike of daily essentials such as rice, edible oil, lentils, and onions has made life miserable for common citizens and fixed-income families. Unscrupulous syndicates and hoarders are manipulating supply chains artificially. Regular market monitoring by mobile courts and strengthening the Open Market Sale (OMS) program are urgently needed to curb inflation.\n\nYours sincerely,\nA Conscientious Citizen,\nDhaka."
+    },
+    {
+      "id": 5,
+      "title": "Application for Leave of Absence on Medical Grounds",
+      "type": "Official Application",
+      "key_points": "Sudden sickness, doctor's advice, exact duration of leave requested.",
+      "model_answer": "October 22, 2024\n\nThe Upazila Social Services Officer,\nUpazila Social Services Office,\nSadar, Dinajpur.\n\nSubject: Application for 3 days' casual leave on medical grounds.\n\nSir,\nI have the honour to state that I have suddenly fallen ill with severe viral fever. The doctor has advised me complete bed rest for three days. As such, I am unable to attend my office duties from 23rd October to 25th October 2024.\n\nI, therefore, pray and hope that you would be kind enough to grant me three days' casual leave on medical grounds.\n\nYours obediently,\n(Md. Nazmul Huda)\nUnion Social Worker,\nSadar, Dinajpur."
+    }
+  ]
+}

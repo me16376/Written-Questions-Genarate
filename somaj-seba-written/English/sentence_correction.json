@@ -1,0 +1,251 @@
+{
+  "subject": "English",
+  "subject_code": "english",
+  "topic": "Sentence Correction & Common Errors (60 Master Sets)",
+  "topic_code": "sentence_correction",
+  "mark_distribution": "3 – 5 Marks",
+  "exam_tips": "Common errors in written exams test Subject-Verb Agreement, Pronoun Cases, Prepositional idioms, Parallelism, and Uncountable Nouns.",
+  "total_items": 40,
+  "items": [
+    {
+      "id": 1,
+      "incorrect": "He is senior than me.",
+      "correct": "He is senior to me.",
+      "rule": "Latin adjectives ending in -ior (senior, junior, prior, superior, inferior) take 'to', not 'than'."
+    },
+    {
+      "id": 2,
+      "incorrect": "One of the boy is absent today.",
+      "correct": "One of the boys is absent today.",
+      "rule": "'One of the' is always followed by a plural noun and a singular verb."
+    },
+    {
+      "id": 3,
+      "incorrect": "He gave me an advice.",
+      "correct": "He gave me a piece of advice. (or: some advice)",
+      "rule": "'Advice' is an uncountable noun and cannot be preceded directly by 'a' or 'an'."
+    },
+    {
+      "id": 4,
+      "incorrect": "I prefer reading than writing.",
+      "correct": "I prefer reading to writing.",
+      "rule": "'Prefer' takes the preposition 'to' when comparing two actions or things."
+    },
+    {
+      "id": 5,
+      "incorrect": "The sceneries of Cox's Bazar are charming.",
+      "correct": "The scenery of Cox's Bazar is charming.",
+      "rule": "'Scenery' is uncountable; it has no plural form 'sceneries'."
+    },
+    {
+      "id": 6,
+      "incorrect": "Neither Rahim nor his friends was present.",
+      "correct": "Neither Rahim nor his friends were present.",
+      "rule": "In 'Neither... nor', the verb agrees with the subject closest to it (friends -> were)."
+    },
+    {
+      "id": 7,
+      "incorrect": "Each of the students have done their homework.",
+      "correct": "Each of the students has done his/her homework.",
+      "rule": "'Each of' takes a singular verb and singular pronoun."
+    },
+    {
+      "id": 8,
+      "incorrect": "He died from cancer.",
+      "correct": "He died of cancer.",
+      "rule": "When someone dies of a disease, the preposition 'of' is used (died of malaria/cancer)."
+    },
+    {
+      "id": 9,
+      "incorrect": "I, you and he are friends.",
+      "correct": "You, he and I are friends.",
+      "rule": "In normal statements, pronouns follow the 2nd, 3rd, 1st person order (2-3-1 rule)."
+    },
+    {
+      "id": 10,
+      "incorrect": "You, he and I are guilty.",
+      "correct": "I, you and he are guilty.",
+      "rule": "When confessing a mistake or guilt, the order is 1st, 2nd, 3rd person (1-2-3 rule)."
+    },
+    {
+      "id": 11,
+      "incorrect": "The news are true.",
+      "correct": "The news is true.",
+      "rule": "'News' looks plural but takes a singular verb."
+    },
+    {
+      "id": 12,
+      "incorrect": "Fifty miles are a long distance.",
+      "correct": "Fifty miles is a long distance.",
+      "rule": "Units of measurement, distance, time, and money take singular verbs when considered as a whole."
+    },
+    {
+      "id": 13,
+      "incorrect": "He is good in English.",
+      "correct": "He is good at English.",
+      "rule": "'Good at' means skilled or proficient in a subject."
+    },
+    {
+      "id": 14,
+      "incorrect": "I saw a dream last night.",
+      "correct": "I had a dream last night. (or: dreamt a dream)",
+      "rule": "You do not 'see' a dream in English; you 'have' or 'dream' a dream."
+    },
+    {
+      "id": 15,
+      "incorrect": "He prevented me to go there.",
+      "correct": "He prevented me from going there.",
+      "rule": "'Prevent' takes 'from + verb-ing', not the infinitive 'to go'."
+    },
+    {
+      "id": 16,
+      "incorrect": "Unless you do not work hard, you will fail.",
+      "correct": "Unless you work hard, you will fail.",
+      "rule": "'Unless' is already negative; do not use 'not' inside an unless-clause."
+    },
+    {
+      "id": 17,
+      "incorrect": "He insisted me to go.",
+      "correct": "He insisted on my going.",
+      "rule": "'Insist' takes the preposition 'on' followed by a gerund with a possessive pronoun."
+    },
+    {
+      "id": 18,
+      "incorrect": "The patient died before the doctor came.",
+      "correct": "The patient had died before the doctor came.",
+      "rule": "In past perfect with 'before', the earlier action takes 'had + past participle'."
+    },
+    {
+      "id": 19,
+      "incorrect": "He discussed about the matter.",
+      "correct": "He discussed the matter.",
+      "rule": "'Discuss' is a transitive verb; it does not take the preposition 'about'."
+    },
+    {
+      "id": 20,
+      "incorrect": "I look forward to hear from you.",
+      "correct": "I look forward to hearing from you.",
+      "rule": "'Look forward to' is followed by a gerund (verb+ing)."
+    },
+    {
+      "id": 21,
+      "incorrect": "He came here with a view to learn English.",
+      "correct": "He came here with a view to learning English.",
+      "rule": "'With a view to' is always followed by a gerund (V-ing)."
+    },
+    {
+      "id": 22,
+      "incorrect": "Do you know who did break the glass?",
+      "correct": "Do you know who broke the glass?",
+      "rule": "In indirect questions, auxiliary 'did' is not used."
+    },
+    {
+      "id": 23,
+      "incorrect": "He is suffering from fever since Monday.",
+      "correct": "He has been suffering from fever since Monday.",
+      "rule": "An action starting in the past and continuing takes Present Perfect Continuous tense."
+    },
+    {
+      "id": 24,
+      "incorrect": "I reached to the station in time.",
+      "correct": "I reached the station in time.",
+      "rule": "'Reach' takes a direct object without the preposition 'to'."
+    },
+    {
+      "id": 25,
+      "incorrect": "He is very weak that he cannot walk.",
+      "correct": "He is so weak that he cannot walk.",
+      "rule": "The correlative conjunction is 'so... that', not 'very... that'."
+    },
+    {
+      "id": 26,
+      "incorrect": "No sooner did the bell ring when the students entered.",
+      "correct": "No sooner did the bell ring than the students entered.",
+      "rule": "'No sooner... than' is the correct correlative pair."
+    },
+    {
+      "id": 27,
+      "incorrect": "Hardly had I arrived than it began to rain.",
+      "correct": "Hardly had I arrived when it began to rain.",
+      "rule": "'Hardly had... when' is the correct correlative pair."
+    },
+    {
+      "id": 28,
+      "incorrect": "He told that he was ill.",
+      "correct": "He said that he was ill. (or: He told me that he was ill)",
+      "rule": "'Tell' requires a personal object (told me), while 'say' does not."
+    },
+    {
+      "id": 29,
+      "incorrect": "He is addict to gambling.",
+      "correct": "He is addicted to gambling.",
+      "rule": "'Addicted to' is the correct adjective form meaning dependent on a bad habit."
+    },
+    {
+      "id": 30,
+      "incorrect": "All that glitters are not gold.",
+      "correct": "All that glitters is not gold.",
+      "rule": "Proverb: 'All that glitters is not gold' takes a singular verb."
+    },
+    {
+      "id": 31,
+      "incorrect": "He is taller between the two boys.",
+      "correct": "He is the taller of the two boys.",
+      "rule": "When comparing two specific items with 'of the two', use 'the + comparative'."
+    },
+    {
+      "id": 32,
+      "incorrect": "I forbade him not to go.",
+      "correct": "I forbade him to go.",
+      "rule": "'Forbid' is inherently negative; do not add 'not' after it."
+    },
+    {
+      "id": 33,
+      "incorrect": "He is superior than all of us.",
+      "correct": "He is superior to all of us.",
+      "rule": "'Superior' takes 'to', never 'than'."
+    },
+    {
+      "id": 34,
+      "incorrect": "The climate of Sylhet is better than Dhaka.",
+      "correct": "The climate of Sylhet is better than that of Dhaka.",
+      "rule": "Comparisons must compare similar things: climate with climate ('that of Dhaka')."
+    },
+    {
+      "id": 35,
+      "incorrect": "I have no money in my pocket.",
+      "correct": "I have no money with me. (or: I have no money in hand)",
+      "rule": "Proper idiomatic English expression for having cash."
+    },
+    {
+      "id": 36,
+      "incorrect": "He resigned from his post.",
+      "correct": "He resigned his post.",
+      "rule": "'Resign' directly takes the post as its object without 'from'."
+    },
+    {
+      "id": 37,
+      "incorrect": "What is the time in your watch?",
+      "correct": "What is the time by your watch?",
+      "rule": "The correct preposition for checking time with a watch is 'by'."
+    },
+    {
+      "id": 38,
+      "incorrect": "He entered into the room.",
+      "correct": "He entered the room.",
+      "rule": "For physical entry, 'enter' does not take 'into'. ('Enter into' is only used for agreements)."
+    },
+    {
+      "id": 39,
+      "incorrect": "I am looking for a work.",
+      "correct": "I am looking for a job. (or: looking for work)",
+      "rule": "'Work' is uncountable; use 'job' if using the article 'a'."
+    },
+    {
+      "id": 40,
+      "incorrect": "Both of them did not come.",
+      "correct": "Neither of them came.",
+      "rule": "To express negative for both, use 'Neither of them came' instead of 'Both did not'."
+    }
+  ]
+}

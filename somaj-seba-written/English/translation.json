@@ -1,0 +1,461 @@
+{
+  "subject": "English",
+  "subject_code": "english",
+  "topic": "Translation (৬০টি মাস্টার সেট)",
+  "topic_code": "translation",
+  "mark_distribution": "৫ নম্বর",
+  "exam_tips": "লিখিত পরীক্ষায় সরাসরি বাংলা বাক্য দিয়ে ইংরেজি করতে বলা হয়। Tense, Voice, এবং Appropriate Preposition-এর সঠিক প্রয়োগ নিশ্চিত করুন।",
+  "total_items": 75,
+  "items": [
+    {
+      "id": 1,
+      "bangla": "সে দিন এনে দিন খায়।",
+      "english": "He lives from hand to mouth.",
+      "grammar_note": "Idiomatic phrase 'live from hand to mouth'."
+    },
+    {
+      "id": 2,
+      "bangla": "সকাল থেকে গুঁড়ি গুঁড়ি বৃষ্টি হচ্ছে।",
+      "english": "It has been drizzling since morning.",
+      "grammar_note": "Present Perfect Continuous with 'since'."
+    },
+    {
+      "id": 3,
+      "bangla": "ডাক্তার আসার পূর্বে রোগী মারা গেল।",
+      "english": "The patient had died before the doctor came.",
+      "grammar_note": "Past Perfect before 'before'."
+    },
+    {
+      "id": 4,
+      "bangla": "ডাক্তার আসার পর রোগী মারা গেল।",
+      "english": "The patient died after the doctor had come.",
+      "grammar_note": "Past Perfect after 'after'."
+    },
+    {
+      "id": 5,
+      "bangla": "সে সাঁতার কাটতে জানে না।",
+      "english": "He does not know how to swim.",
+      "grammar_note": "Know + how to + V1 for skills."
+    },
+    {
+      "id": 6,
+      "bangla": "চকচক করলেই সোনা হয় না।",
+      "english": "All that glitters is not gold.",
+      "grammar_note": "Proverb; takes singular verb 'is'."
+    },
+    {
+      "id": 7,
+      "bangla": "চোরটিকে হাতেনাতে ধরা হলো।",
+      "english": "The thief was caught red-handed.",
+      "grammar_note": "Passive voice with idiom 'red-handed'."
+    },
+    {
+      "id": 8,
+      "bangla": "তুমি কি কখনো সুন্দরবন গিয়েছো?",
+      "english": "Have you ever been to the Sundarbans?",
+      "grammar_note": "'Have been to' for visiting."
+    },
+    {
+      "id": 9,
+      "bangla": "আমার একটি গান গাওয়ার ইচ্ছা আছে।",
+      "english": "I feel like singing a song.",
+      "grammar_note": "Feel like + V-ing."
+    },
+    {
+      "id": 10,
+      "bangla": "গাছে কাঁঠাল গোঁফে তেল।",
+      "english": "To count one's chickens before they are hatched.",
+      "grammar_note": "Proverb."
+    },
+    {
+      "id": 11,
+      "bangla": "সে হাসতে হাসতে ঘরে ঢুকল।",
+      "english": "He entered the room laughing.",
+      "grammar_note": "Participle 'laughing'. No preposition after 'enter' with place."
+    },
+    {
+      "id": 12,
+      "bangla": "তার যা আছে তাই নিয়ে সে সন্তুষ্ট।",
+      "english": "He is satisfied with what he has.",
+      "grammar_note": "Satisfied with."
+    },
+    {
+      "id": 13,
+      "bangla": "তিনি গতকাল এখানে এসেছিলেন।",
+      "english": "He came here yesterday.",
+      "grammar_note": "Past Indefinite Tense."
+    },
+    {
+      "id": 14,
+      "bangla": "আমার ঘড়িতে এখন দশটা বাজে।",
+      "english": "It is ten o'clock by my watch.",
+      "grammar_note": "'By my watch' is appropriate."
+    },
+    {
+      "id": 15,
+      "bangla": "একতাই বল।",
+      "english": "Unity is strength.",
+      "grammar_note": "Proverb."
+    },
+    {
+      "id": 16,
+      "bangla": "পরিশ্রমই সৌভাগ্যের চাবিকাঠি।",
+      "english": "Industry is the key to success.",
+      "grammar_note": "Key to success."
+    },
+    {
+      "id": 17,
+      "bangla": "সে আমাকে মিথ্যাবাদী বলল।",
+      "english": "He called me a liar.",
+      "grammar_note": "Factitive verb structure."
+    },
+    {
+      "id": 18,
+      "bangla": "আমি তাকে দিয়ে চিঠিটি লিখিয়ে নিলাম।",
+      "english": "I had the letter written by him. / I made him write the letter.",
+      "grammar_note": "Causative verb (have/make)."
+    },
+    {
+      "id": 19,
+      "bangla": "যত দ্রুত সম্ভব কাজটি সম্পন্ন করো।",
+      "english": "Finish the work as soon as possible.",
+      "grammar_note": "Imperative sentence."
+    },
+    {
+      "id": 20,
+      "bangla": "বাংলাদেশ একটি নদীমাতৃক দেশ।",
+      "english": "Bangladesh is a riverine country.",
+      "grammar_note": "'Riverine' country."
+    },
+    {
+      "id": 21,
+      "bangla": "মানুষ মরণশীল।",
+      "english": "Man is mortal.",
+      "grammar_note": "Universal truth; no article before 'man'."
+    },
+    {
+      "id": 22,
+      "bangla": "আমি সেখানে না যেয়ে পারলাম না।",
+      "english": "I could not but go there. / I could not help going there.",
+      "grammar_note": "Could not but + V1 or could not help + V-ing."
+    },
+    {
+      "id": 23,
+      "bangla": "বিপদ কখনো একা আসে না।",
+      "english": "Misfortunes never come alone.",
+      "grammar_note": "Proverb."
+    },
+    {
+      "id": 24,
+      "bangla": "ধীরে এবং অবিচল ব্যক্তিই জয়লাভ করে।",
+      "english": "Slow and steady wins the race.",
+      "grammar_note": "Singular concept takes singular verb 'wins'."
+    },
+    {
+      "id": 25,
+      "bangla": "তিনি কেবল একজন শিক্ষকই নন, একজন লেখকও।",
+      "english": "He is not only a teacher but also a writer.",
+      "grammar_note": "Not only ... but also."
+    },
+    {
+      "id": 26,
+      "bangla": "যদি বৃষ্টি হয়, তবে আমি যাব না।",
+      "english": "If it rains, I will not go.",
+      "grammar_note": "First conditional."
+    },
+    {
+      "id": 27,
+      "bangla": "গরিবদের অবহেলা করা উচিত নয়।",
+      "english": "The poor should not be neglected.",
+      "grammar_note": "'The poor' is plural class."
+    },
+    {
+      "id": 28,
+      "bangla": "সমাজসেবা অধিদপ্তর অসহায় মানুষের পাশে দাঁড়ায়।",
+      "english": "The Department of Social Services stands by the helpless people.",
+      "grammar_note": "Stand by = support."
+    },
+    {
+      "id": 29,
+      "bangla": "ধূমপান স্বাস্থ্যের জন্য ক্ষতিকর।",
+      "english": "Smoking is injurious to health.",
+      "grammar_note": "Injurious to."
+    },
+    {
+      "id": 30,
+      "bangla": "আমার যদি পাখির মতো ডানা থাকত!",
+      "english": "Had I the wings of a bird! / If I had the wings of a bird!",
+      "grammar_note": "Subjunctive mood."
+    },
+    {
+      "id": 31,
+      "bangla": "সময় ও স্রোত কারো জন্য অপেক্ষা করে না।",
+      "english": "Time and tide wait for none.",
+      "grammar_note": "Proverb."
+    },
+    {
+      "id": 32,
+      "bangla": "তিনি কঠোর পরিশ্রমের মাধ্যমে উন্নতি করেছেন।",
+      "english": "He prospered by dint of hard work.",
+      "grammar_note": "Phrase: 'by dint of'."
+    },
+    {
+      "id": 33,
+      "bangla": "তিনি সততার জন্য পরিচিত।",
+      "english": "He is well known for his honesty.",
+      "grammar_note": "Known for."
+    },
+    {
+      "id": 34,
+      "bangla": "সততাই সর্বোৎকৃষ্ট পন্থা।",
+      "english": "Honesty is the best policy.",
+      "grammar_note": "Proverb."
+    },
+    {
+      "id": 35,
+      "bangla": "বৃষ্টির কারণে খেলাটি স্থগিত করা হলো।",
+      "english": "The match was called off on account of rain.",
+      "grammar_note": "Call off = cancel/postpone."
+    },
+    {
+      "id": 36,
+      "bangla": "যে রক্ষক সেই ভক্ষক।",
+      "english": "The law-makers are the law-breakers.",
+      "grammar_note": "Proverbial expression."
+    },
+    {
+      "id": 37,
+      "bangla": "যত গর্জে তত বর্ষে না।",
+      "english": "Barking dogs seldom bite.",
+      "grammar_note": "Proverb."
+    },
+    {
+      "id": 38,
+      "bangla": "দশ মিনিট ধরে বৃষ্টি হচ্ছে।",
+      "english": "It has been raining for ten minutes.",
+      "grammar_note": "'For' for period of time."
+    },
+    {
+      "id": 39,
+      "bangla": "আমি তাকে তিন বছর ধরে চিনি।",
+      "english": "I have known him for three years.",
+      "grammar_note": "Stative verb 'know' takes Present Perfect, not Continuous."
+    },
+    {
+      "id": 40,
+      "bangla": "তিনি একজন সৎ ও নিষ্ঠাবান কর্মকর্তা।",
+      "english": "He is an honest and dedicated officer.",
+      "grammar_note": "Article 'an' before silent 'h' sound."
+    },
+    {
+      "id": 41,
+      "bangla": "লোভে পাপ, পাপে মৃত্যু।",
+      "english": "Greed leads to sin and sin leads to death.",
+      "grammar_note": "Proverb."
+    },
+    {
+      "id": 42,
+      "bangla": "অহংকার পতনের মূল।",
+      "english": "Pride goes before a fall.",
+      "grammar_note": "Proverb."
+    },
+    {
+      "id": 43,
+      "bangla": "তিনি আমাকে সাহায্য করতে অস্বীকার করলেন।",
+      "english": "He refused to help me.",
+      "grammar_note": "Refuse to + V1."
+    },
+    {
+      "id": 44,
+      "bangla": "মেয়েটি দেখতে তার মায়ের মতো।",
+      "english": "The girl takes after her mother.",
+      "grammar_note": "Phrasal verb: 'take after' = resemble."
+    },
+    {
+      "id": 45,
+      "bangla": "আমাদের উচিত প্রাকৃতিক দুর্যোগ মোকাবিলা করা।",
+      "english": "We should cope with natural disasters.",
+      "grammar_note": "Cope with (not cope up with)."
+    },
+    {
+      "id": 46,
+      "bangla": "সে তার ভাইয়ের চেয়ে বুদ্ধিমান।",
+      "english": "He is more intelligent than his brother.",
+      "grammar_note": "Comparative degree."
+    },
+    {
+      "id": 47,
+      "bangla": "সূর্য ওঠার পূর্বে আমরা রওনা হলাম।",
+      "english": "We set out before the sun rose.",
+      "grammar_note": "Phrasal verb: 'set out' = start journey."
+    },
+    {
+      "id": 48,
+      "bangla": "যে যেমন কর্ম করে সে তেমন ফল পায়।",
+      "english": "As you sow, so you reap.",
+      "grammar_note": "Proverb."
+    },
+    {
+      "id": 49,
+      "bangla": "তিনি একজন উচ্চপদস্থ কর্মকর্তা।",
+      "english": "He is a high-ranking official.",
+      "grammar_note": "Compound adjective."
+    },
+    {
+      "id": 50,
+      "bangla": "তুমি কি কখনো তাজমহল দেখেছো?",
+      "english": "Have you ever seen the Taj Mahal?",
+      "grammar_note": "'The' before historical monuments."
+    },
+    {
+      "id": 51,
+      "bangla": "ছেলেটি দিন দিন উন্নতি করছে।",
+      "english": "The boy is improving day by day.",
+      "grammar_note": "Present continuous for gradual change."
+    },
+    {
+      "id": 52,
+      "bangla": "তিনি আমাকে একটি পরামর্শ দিলেন।",
+      "english": "He gave me a piece of advice.",
+      "grammar_note": "'Advice' is uncountable; use 'a piece of advice'."
+    },
+    {
+      "id": 53,
+      "bangla": "তারা নদী পার হচ্ছিল।",
+      "english": "They were crossing the river.",
+      "grammar_note": "Past Continuous Tense."
+    },
+    {
+      "id": 54,
+      "bangla": "আমরা দেশকে প্রাণ দিয়ে ভালোবাসি।",
+      "english": "We love our country dearly.",
+      "grammar_note": "Adverb 'dearly'."
+    },
+    {
+      "id": 55,
+      "bangla": "কঠোর পরিশ্রম ছাড়া কেউ সফল হতে পারে না।",
+      "english": "None can succeed without hard work.",
+      "grammar_note": "Negative subject 'None'."
+    },
+    {
+      "id": 56,
+      "bangla": "সে কাজটি করতে সমর্থ হয়েছিল।",
+      "english": "He was able to do the work.",
+      "grammar_note": "Be able to + V1."
+    },
+    {
+      "id": 57,
+      "bangla": "তিনি নিয়মিত পত্রিকা পড়েন।",
+      "english": "He reads newspapers regularly.",
+      "grammar_note": "Habitual action in Present Indefinite."
+    },
+    {
+      "id": 58,
+      "bangla": "দুষ্টু লোকটিকে পুলিশে সোপর্দ করা হলো।",
+      "english": "The culprit was handed over to the police.",
+      "grammar_note": "Hand over = surrender/transfer."
+    },
+    {
+      "id": 59,
+      "bangla": "জ্ঞানই শক্তি।",
+      "english": "Knowledge is power.",
+      "grammar_note": "Proverb."
+    },
+    {
+      "id": 60,
+      "bangla": "আমাদের সকলকে দেশের সেবায় এগিয়ে আসতে হবে।",
+      "english": "We all have to come forward in the service of the nation.",
+      "grammar_note": "Have to + V1 for obligation."
+    },
+    {
+      "id": 61,
+      "bangla": "কর্তব্যে অবহেলা করো না।",
+      "english": "Do not neglect your duty.",
+      "grammar_note": "Imperative sentence."
+    },
+    {
+      "id": 62,
+      "bangla": "তিনি আমার চেয়ে বয়সে বড়।",
+      "english": "He is older than I. / He is senior to me.",
+      "grammar_note": "Senior to / older than."
+    },
+    {
+      "id": 63,
+      "bangla": "আজ খুব গরম পড়েছে।",
+      "english": "It is very hot today.",
+      "grammar_note": "Impersonal 'It'."
+    },
+    {
+      "id": 64,
+      "bangla": "চোরটি পুলিশের ভয়ে পালিয়ে গেল।",
+      "english": "The thief ran away for fear of police.",
+      "grammar_note": "Phrase 'for fear of'."
+    },
+    {
+      "id": 65,
+      "bangla": "সৎ লোক কখনো অসদুপায় অবলম্বন করে না।",
+      "english": "An honest man never adopts unfair means.",
+      "grammar_note": "Present Indefinite Tense."
+    },
+    {
+      "id": 66,
+      "bangla": "আমরা নদী পার হওয়ার সময় ঝড় শুরু হলো।",
+      "english": "A storm broke out while we were crossing the river.",
+      "grammar_note": "While + Past Continuous."
+    },
+    {
+      "id": 67,
+      "bangla": "তার কথা আমার বিশ্বাস হলো না।",
+      "english": "I could not believe his words.",
+      "grammar_note": "Modal 'could not'."
+    },
+    {
+      "id": 68,
+      "bangla": "তিনি ইংরেজি বলতে অভ্যস্ত।",
+      "english": "He is accustomed to speaking English.",
+      "grammar_note": "Accustomed to + gerund."
+    },
+    {
+      "id": 69,
+      "bangla": "বই পড়ার কোনো বিকল্প নেই।",
+      "english": "There is no substitute for reading books.",
+      "grammar_note": "Introductory 'There'."
+    },
+    {
+      "id": 70,
+      "bangla": "আমরা বাংলাদেশকে একটি উন্নত দেশ হিসেবে দেখতে চাই।",
+      "english": "We want to see Bangladesh as a developed nation.",
+      "grammar_note": "Infinitive 'to see'."
+    },
+    {
+      "id": 71,
+      "bangla": "তিনি বিপদে ধৈর্য ধারণ করেছিলেন।",
+      "english": "He exercised patience in adversity.",
+      "grammar_note": "Past Indefinite."
+    },
+    {
+      "id": 72,
+      "bangla": "পরিশ্রম ছাড়া কোনো জাতি উন্নত হতে পারে না।",
+      "english": "No nation can prosper without diligence.",
+      "grammar_note": "Proverbial / General truth."
+    },
+    {
+      "id": 73,
+      "bangla": "সততার পুরস্কার সবসময় ভালো হয়।",
+      "english": "The reward of honesty is always sweet.",
+      "grammar_note": "General truth."
+    },
+    {
+      "id": 74,
+      "bangla": "তিনি আমাকে কথা দিয়েছিলেন।",
+      "english": "He gave me his word.",
+      "grammar_note": "Idiomatic expression 'give one's word'."
+    },
+    {
+      "id": 75,
+      "bangla": "দেশ গঠনে যুবসমাজের ভূমিকা অপরিসীম।",
+      "english": "The role of youth in nation-building is immense.",
+      "grammar_note": "General statement."
+    }
+  ]
+}

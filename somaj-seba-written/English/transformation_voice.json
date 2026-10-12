@@ -1,0 +1,461 @@
+{
+  "subject": "English",
+  "subject_code": "EN-06",
+  "topic": "Transformation & Voice Change",
+  "topic_en": "Sentence Transformation & Voice Change",
+  "total_items": 75,
+  "description": "Voice change, Degree of comparison, Simple-Complex-Compound, Affirmative-Negative transformation.",
+  "exam_tip": "Always write the full transformed sentence clearly maintaining the original tense.",
+  "items": [
+    {
+      "id": 1,
+      "question": "Do the work at once. (Passive)",
+      "answer": "Let the work be done at once.",
+      "rule": "Voice Change (Imperative)"
+    },
+    {
+      "id": 2,
+      "question": "He pleases us all. (Passive)",
+      "answer": "We all are pleased with him.",
+      "rule": "Voice Change (Pleased with)"
+    },
+    {
+      "id": 3,
+      "question": "Who wrote the book Hamlet? (Passive)",
+      "answer": "By whom was the book Hamlet written?",
+      "rule": "Voice Change (Interrogative 'Who')"
+    },
+    {
+      "id": 4,
+      "question": "The police arrested the thief. (Passive)",
+      "answer": "The thief was arrested (by the police).",
+      "rule": "Voice Change (Past Indefinite)"
+    },
+    {
+      "id": 5,
+      "question": "A storm destroyed the village. (Passive)",
+      "answer": "The village was destroyed by a storm.",
+      "rule": "Voice Change (Past Indefinite)"
+    },
+    {
+      "id": 6,
+      "question": "They are playing football in the field. (Passive)",
+      "answer": "Football is being played in the field by them.",
+      "rule": "Voice Change (Present Continuous)"
+    },
+    {
+      "id": 7,
+      "question": "He had completed the project before deadline. (Passive)",
+      "answer": "The project had been completed by him before deadline.",
+      "rule": "Voice Change (Past Perfect)"
+    },
+    {
+      "id": 8,
+      "question": "Never tell a lie. (Passive)",
+      "answer": "Let not a lie ever be told.",
+      "rule": "Voice Change (Negative Imperative)"
+    },
+    {
+      "id": 9,
+      "question": "We must respect our teachers. (Passive)",
+      "answer": "Our teachers must be respected by us.",
+      "rule": "Voice Change (Modal Auxiliary)"
+    },
+    {
+      "id": 10,
+      "question": "Smoke filled the hall. (Passive)",
+      "answer": "The hall was filled with smoke.",
+      "rule": "Voice Change (Filled with)"
+    },
+    {
+      "id": 11,
+      "question": "His conduct shocked me. (Passive)",
+      "answer": "I was shocked at his conduct.",
+      "rule": "Voice Change (Shocked at)"
+    },
+    {
+      "id": 12,
+      "question": "Rice sells cheap. (Passive)",
+      "answer": "Rice is cheap when it is sold.",
+      "rule": "Voice Change (Quasi-passive)"
+    },
+    {
+      "id": 13,
+      "question": "The flower smells sweet. (Passive)",
+      "answer": "The flower is sweet when it is smelt.",
+      "rule": "Voice Change (Quasi-passive)"
+    },
+    {
+      "id": 14,
+      "question": "Panic seized the crowd. (Passive)",
+      "answer": "The crowd was seized with panic.",
+      "rule": "Voice Change (Seized with)"
+    },
+    {
+      "id": 15,
+      "question": "Someone has stolen my pen. (Passive)",
+      "answer": "My pen has been stolen.",
+      "rule": "Voice Change (Indefinite pronoun omitted)"
+    },
+    {
+      "id": 16,
+      "question": "I know him well. (Passive)",
+      "answer": "He is well known to me.",
+      "rule": "Voice Change (Known to)"
+    },
+    {
+      "id": 17,
+      "question": "People speak English all over the world. (Passive)",
+      "answer": "English is spoken all over the world.",
+      "rule": "Voice Change (General subject omitted)"
+    },
+    {
+      "id": 18,
+      "question": "Write a letter to your mother. (Passive)",
+      "answer": "Let a letter be written to your mother.",
+      "rule": "Voice Change (Imperative)"
+    },
+    {
+      "id": 19,
+      "question": "Did you see the accident? (Passive)",
+      "answer": "Was the accident seen by you?",
+      "rule": "Voice Change (Interrogative Past)"
+    },
+    {
+      "id": 20,
+      "question": "One should keep one's promise. (Passive)",
+      "answer": "A promise should be kept.",
+      "rule": "Voice Change (Impersonal)"
+    },
+    {
+      "id": 21,
+      "question": "Man is mortal. (Negative)",
+      "answer": "No man is immortal. / Man cannot but die.",
+      "rule": "Affirmative to Negative"
+    },
+    {
+      "id": 22,
+      "question": "Only Allah can help us. (Negative)",
+      "answer": "None but Allah can help us.",
+      "rule": "Only (Person/Creator) → None but"
+    },
+    {
+      "id": 23,
+      "question": "He has only a few books. (Negative)",
+      "answer": "He has not many books.",
+      "rule": "Only a few → Not many"
+    },
+    {
+      "id": 24,
+      "question": "Every mother loves her child. (Negative)",
+      "answer": "There is no mother but loves her child.",
+      "rule": "Every → There is no ... but"
+    },
+    {
+      "id": 25,
+      "question": "As soon as the thief saw the police, he fled. (Negative)",
+      "answer": "No sooner had the thief seen the police than he fled.",
+      "rule": "As soon as → No sooner had ... than"
+    },
+    {
+      "id": 26,
+      "question": "He is too weak to walk. (Negative)",
+      "answer": "He is so weak that he cannot walk.",
+      "rule": "Too ... to → So ... that ... cannot"
+    },
+    {
+      "id": 27,
+      "question": "I must do the work. (Negative)",
+      "answer": "I cannot but do the work. / I cannot help doing the work.",
+      "rule": "Must → Cannot but"
+    },
+    {
+      "id": 28,
+      "question": "He is both honest and hardworking. (Negative)",
+      "answer": "He is not only honest but also hardworking.",
+      "rule": "Both ... and → Not only ... but also"
+    },
+    {
+      "id": 29,
+      "question": "Where there is smoke, there is fire. (Negative)",
+      "answer": "There is no smoke without fire.",
+      "rule": "General truth to Negative"
+    },
+    {
+      "id": 30,
+      "question": "Always speak the truth. (Negative)",
+      "answer": "Never tell a lie.",
+      "rule": "Opposite word + Negative"
+    },
+    {
+      "id": 31,
+      "question": "Akbar was the greatest emperor of India. (Positive)",
+      "answer": "No other emperor of India was as great as Akbar.",
+      "rule": "Superlative to Positive"
+    },
+    {
+      "id": 32,
+      "question": "Akbar was the greatest emperor of India. (Comparative)",
+      "answer": "Akbar was greater than all other emperors of India.",
+      "rule": "Superlative to Comparative"
+    },
+    {
+      "id": 33,
+      "question": "Iron is the most useful metal. (Positive)",
+      "answer": "No other metal is as useful as iron.",
+      "rule": "Superlative to Positive"
+    },
+    {
+      "id": 34,
+      "question": "He is as strong as a lion. (Comparative)",
+      "answer": "A lion is not stronger than he.",
+      "rule": "Positive to Comparative"
+    },
+    {
+      "id": 35,
+      "question": "Dhaka is larger than all other cities in Bangladesh. (Superlative)",
+      "answer": "Dhaka is the largest city in Bangladesh.",
+      "rule": "Comparative to Superlative"
+    },
+    {
+      "id": 36,
+      "question": "Gold is more precious than silver. (Positive)",
+      "answer": "Silver is not so precious as gold.",
+      "rule": "Comparative to Positive"
+    },
+    {
+      "id": 37,
+      "question": "Cox's Bazar is the longest sea beach in the world. (Positive)",
+      "answer": "No other sea beach in the world is as long as Cox's Bazar.",
+      "rule": "Superlative to Positive"
+    },
+    {
+      "id": 38,
+      "question": "Though he is poor, he is honest. (Simple)",
+      "answer": "In spite of his poverty, he is honest.",
+      "rule": "Complex to Simple (Though → In spite of)"
+    },
+    {
+      "id": 39,
+      "question": "Though he is poor, he is honest. (Compound)",
+      "answer": "He is poor, but he is honest.",
+      "rule": "Complex to Compound (Though → but)"
+    },
+    {
+      "id": 40,
+      "question": "Since the weather was foul, we stayed at home. (Simple)",
+      "answer": "The weather being foul, we stayed at home.",
+      "rule": "Complex to Simple (Absolute Nominative)"
+    },
+    {
+      "id": 41,
+      "question": "Work hard and you will succeed. (Complex)",
+      "answer": "If you work hard, you will succeed.",
+      "rule": "Compound to Complex (and → If)"
+    },
+    {
+      "id": 42,
+      "question": "Work hard or you will fail. (Complex)",
+      "answer": "Unless you work hard, you will fail. / If you do not work hard, you will fail.",
+      "rule": "Compound to Complex (or → Unless)"
+    },
+    {
+      "id": 43,
+      "question": "Going to market, he bought a shirt. (Compound)",
+      "answer": "He went to market and bought a shirt.",
+      "rule": "Simple to Compound"
+    },
+    {
+      "id": 44,
+      "question": "I saw a bird which was flying in the sky. (Simple)",
+      "answer": "I saw a bird flying in the sky.",
+      "rule": "Complex to Simple (Relative clause reduction)"
+    },
+    {
+      "id": 45,
+      "question": "He confessed that he was guilty. (Simple)",
+      "answer": "He confessed his guilt.",
+      "rule": "Complex to Simple (Noun clause reduction)"
+    },
+    {
+      "id": 46,
+      "question": "Honey tastes sweet. (Passive)",
+      "answer": "Honey is sweet when it is tasted.",
+      "rule": "Quasi-passive voice"
+    },
+    {
+      "id": 47,
+      "question": "They elected him captain. (Passive)",
+      "answer": "He was elected captain by them.",
+      "rule": "Factitive object retained as complement"
+    },
+    {
+      "id": 48,
+      "question": "I saw him play cricket. (Passive)",
+      "answer": "He was seen to play cricket by me.",
+      "rule": "Bare infinitive takes 'to' in passive"
+    },
+    {
+      "id": 49,
+      "question": "He told me that he would come. (Passive)",
+      "answer": "I was told by him that he would come.",
+      "rule": "Complex sentence voice change"
+    },
+    {
+      "id": 50,
+      "question": "We should not tease the poor. (Passive)",
+      "answer": "The poor should not be teased by us.",
+      "rule": "Modal auxiliary negative"
+    },
+    {
+      "id": 51,
+      "question": "Post the letter. (Passive)",
+      "answer": "Let the letter be posted.",
+      "rule": "Imperative sentence"
+    },
+    {
+      "id": 52,
+      "question": "Help the helpless. (Passive)",
+      "answer": "Let the helpless be helped.",
+      "rule": "Imperative sentence"
+    },
+    {
+      "id": 53,
+      "question": "Do not make a noise. (Passive)",
+      "answer": "Let not a noise be made.",
+      "rule": "Negative imperative"
+    },
+    {
+      "id": 54,
+      "question": "Who called you? (Passive)",
+      "answer": "By whom were you called?",
+      "rule": "Interrogative 'Who'"
+    },
+    {
+      "id": 55,
+      "question": "What do you want? (Passive)",
+      "answer": "What is wanted by you?",
+      "rule": "Interrogative 'What'"
+    },
+    {
+      "id": 56,
+      "question": "He made me drive the car. (Passive)",
+      "answer": "I was made to drive the car by him.",
+      "rule": "Causative passive takes 'to'"
+    },
+    {
+      "id": 57,
+      "question": "He is known to all. (Active)",
+      "answer": "All know him.",
+      "rule": "Passive to Active"
+    },
+    {
+      "id": 58,
+      "question": "The work will be finished by tomorrow. (Active)",
+      "answer": "We / They will finish the work by tomorrow.",
+      "rule": "Passive to Active (Assumed subject)"
+    },
+    {
+      "id": 59,
+      "question": "He is too proud to learn. (Complex)",
+      "answer": "He is so proud that he cannot learn.",
+      "rule": "Too ... to → So ... that cannot"
+    },
+    {
+      "id": 60,
+      "question": "Only graduation is required. (Negative)",
+      "answer": "Nothing but graduation is required.",
+      "rule": "Only (thing/qualification) → Nothing but"
+    },
+    {
+      "id": 61,
+      "question": "As soon as we reached the station, the train left. (Negative)",
+      "answer": "No sooner had we reached the station than the train left.",
+      "rule": "As soon as → No sooner had"
+    },
+    {
+      "id": 62,
+      "question": "Every cloud has a silver lining. (Negative)",
+      "answer": "There is no cloud without a silver lining.",
+      "rule": "Every → There is no ... without"
+    },
+    {
+      "id": 63,
+      "question": "He is the wisest man in the village. (Comparative)",
+      "answer": "He is wiser than any other man in the village.",
+      "rule": "Superlative to Comparative"
+    },
+    {
+      "id": 64,
+      "question": "He is the wisest man in the village. (Positive)",
+      "answer": "No other man in the village is as wise as he.",
+      "rule": "Superlative to Positive"
+    },
+    {
+      "id": 65,
+      "question": "A plane flies faster than birds. (Positive)",
+      "answer": "Birds do not fly as fast as a plane.",
+      "rule": "Comparative to Positive"
+    },
+    {
+      "id": 66,
+      "question": "Prevention is better than cure. (Positive)",
+      "answer": "Cure is not so good as prevention.",
+      "rule": "Proverbial comparative to positive"
+    },
+    {
+      "id": 67,
+      "question": "In spite of being wealthy, he is unhappy. (Compound)",
+      "answer": "He is wealthy, but he is unhappy.",
+      "rule": "Simple to Compound"
+    },
+    {
+      "id": 68,
+      "question": "Besides being intelligent, he is industrious. (Compound)",
+      "answer": "He is not only intelligent but also industrious.",
+      "rule": "Simple to Compound"
+    },
+    {
+      "id": 69,
+      "question": "Taking his bag, he left the room. (Compound)",
+      "answer": "He took his bag and left the room.",
+      "rule": "Simple to Compound"
+    },
+    {
+      "id": 70,
+      "question": "I know his birthplace. (Complex)",
+      "answer": "I know where he was born.",
+      "rule": "Simple to Complex (Noun clause)"
+    },
+    {
+      "id": 71,
+      "question": "Tell me the truth. (Complex)",
+      "answer": "Tell me what the truth is.",
+      "rule": "Simple to Complex (Noun clause)"
+    },
+    {
+      "id": 72,
+      "question": "He worked hard so that he could pass. (Simple)",
+      "answer": "He worked hard to pass / in order to pass.",
+      "rule": "Complex to Simple (Infinitive)"
+    },
+    {
+      "id": 73,
+      "question": "If you do not hurry, you will miss the train. (Compound)",
+      "answer": "Hurry up or you will miss the train.",
+      "rule": "Complex to Compound"
+    },
+    {
+      "id": 74,
+      "question": "Speak the truth or you will be punished. (Complex)",
+      "answer": "Unless you speak the truth, you will be punished.",
+      "rule": "Compound to Complex"
+    },
+    {
+      "id": 75,
+      "question": "He bought a pen which was red. (Simple)",
+      "answer": "He bought a red pen.",
+      "rule": "Complex to Simple"
+    }
+  ]
+}
